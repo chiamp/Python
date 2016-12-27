@@ -1,0 +1,311 @@
+evolution('marcus', 50, 2, 40, 40)
+
+Generation 0
+["M{'o K9R>/C`a", 'CHuVjX448`fa;L_Y=yqfPb}x7oh?Y\\3EnM!`m{!/i7,,btAHl#{*i+]1mO| $(A`TO4[9|r}d8?', '],@~rr,o[nn?Z%Z6{=K&60e,iET|=u>S."IH4', '*$} MDtM0g,/cj?_Que-nZSd"Y(T,MkE7YVN4w;jZS+rTchD47dMOX^f?5qXE4 T{L}Cse6-+qiBb[&o\\8@"MN$uJXkou@;=\\nAH&5t7Ww\\/6H;\\3w4-ARPd9Ul`()gylhn>|Rp4N 3T`v,*jH?YVH#_(fF)Yf^a_;5b!2caMNb_}?K+G+-)V@o~SD/N36[t*6_6!uSMB{z{)N\\5"%N}kJ0tg9Cb&~C/?%ry$fu4qGolMhK&94),LF@yf+^4{-/-Na-t,_MKfk(jO)^=J>/($LjBeNbam4H{l9nQE"6OEoBN%JU8Nc9-;"4Q{f!4Hqtc6ZrlCMt#zgzL', '}R%45"[2BV!`?9%:-RQR6\\2<sc:t"3JdU>{[6AzFcOch(el=zQu9Zfz$a{GoS<0tK\\u W`YuyEp#xf^~$p1\'g3[Nsl?l:d]eVbIpMQ4*j\'3UR c;*&GmJ[Z%N9<8wp^LUGN+Qub}=qBB&Gu! IO;uv@r_=*%r_Z)WZ+WiO|@L9?PFCZr!b=}x}Y\'yv*tzcMJHAABLj?Ps$$j8#bdgw+XlF_U]rf9Pm~^TMV84EKH4bf', '~?-UaZ5W0&>I$d"n#-M h~\'`c*_i-(->Sjc[Z$9,fO\'>]WilqF;aTr&9:+/F`ob0"N5_NYJLF\'+\\GVf6X,Hf12JJ3<', "kuq%yq,#;KAnuBsAdbD}eTDt3pzre2ly<O0@oPM&G9X}X-e/i>70g(a{]haW1Xf|dZ2gRJIKMmR;!dR$kFKMoZ'J{Datg:^fCz#Fh}|NqpU>3pUp}MXxMo!1AO}1j=TneRJp``z1vw[?m\\6D[= BKn@8%PZ>DJ<", 'J&C5muntU23A>P%HOK[MH2e]A[Bg`J', '[U-!Gag[Y0@w2}+@T\\X\\GaITqd<w \'\'Ec%K}J4`aQhpL=N3X<>D@CPV}jO--\'}30wv<}-{V8eK{:~w.\'i+&|BGwL$37+LVk"lf[T4l#TuCI) 2dkBA"J9Il\'v}^{_u /F>!`*h.JzkBOe&7(\'AGVej$<G7u0#xbLb,Oa?ua#)^I8`;5yOLY=#IqIA~yhO3" `SIvJx+n.,lOqq</iM65\\mQG4qMZrJi-["zp(J=e}BHMZ}e(yaEGQeMy#rl-ZwMTU{YZ(q', '-N+0Z%', 'c*jeJ*qUYQj{)Q\'N4"x|PtbH\\.0"/C0xZZR#$:7~+Tbkn{,g=[&tAZk$?dZayO6+-#n/|3O#f4', 'n`J9}yn*^.iT58rgFh(B\\/d:u:D~e`s', 'HEpH"?<)Po|Z.T;{h&RoDJnXMoA5`vBS8Gek0"^/x4VrXj;_adY\'>69X(!n$7+%8[\'/m++n36E+t2g7\\CB\\W8<8]Ock[|eER\'3', 'Xb3+,fk^xjO+@Z', 'PXv@T{H v0', 'Ax2Nr%,SGpXX%\'5vnrBz0\\Puz>R3W\\Y)+[\'(yD`WX]+"nC6YJ-\'&|ZGbfJR~6.`z<"aZ7|mE"VpTh""fLgf', 'nyS^\\\\', 'I`}&v}ON=b`W#upqAmyg%vIgwEioKE8<r,y@["{%Tb=Jce\'{||.Xw:[ ^oLuFf]', 'mI pk%hY9&kt4g0cvyZ"%AB9g=$$x$YoqV!7PA_B.PFM&Cr]a9&nIjJLB|IYhZC/S}:rqZ{~OP},y=qS,=e] A",!8jmL_*G=|DhR:iZTv%Y-qkmp[RD^Y,cVfhA; (vL%C/N$sB5K3,*DQ.pc(E<[DAV*X:3kv9_Rp #{>WGwTWL6vCBz', '', '"{5Z&?J7=#E914KvAP:F9jvSvH$rCzrRPU5dR^oHg`;BGYRl3{>&~', "d?_#CfoE2boGC{nz^dvuvBHoO{EBV]DVq2E#6+#VO1B_Fp!`x-*[:sH*Z'y03il>8kOr!mtmG.Xishr|/`_", '.7te<OtA5|n9:', 'tMYgq+|4_W', 'fh?S<yxYhpY0(qMki1l>*wI-2d^Q,kEHHM<2ZctF4}XH*\\a!o>(\\HnkF<,mP=fda%Y1 +Cfo7n)!3@?Y+@l7=r', "BC+JE0I[9+5{2]NJV'r", 'DW[cbT.vpd|`Q,w?}%SmA_i.~_,u8Rw7N;Z`KV(]K`0UiH=4o$wHw0w-L$', ':F5ki8dzR,%{$(HcL0x{Z`5"RhP}EpS', 'n9v_s3', '3#bysFbr_D&5SgKq,1hXQN*`OIu}8*aD>x$FFV?/qM0%*,}=MdA_', 'xT"Y}>W)', 'yEI2 (jQ?UI#<Cd+6Jk%:$\\(0NvL4`)T[&Ue}8cv&/ NmKTfA!(} >Z"', "$Vdstb0}.Q`9/nHGJ=AL}/<i&`,6M;U@CGK52LHavAAN<5'JEFMH%.:^S8s{ @j8JJXn5Qa;kL", '}T]dx%0~lEQ{ia>d]vumBvPgIaJvfSgmeDQy', '}WimHzO~O_|~4xWMV2NAX .`DZh&eWxS;G9PWV3XOhoi-JkP@>i-j uu"mhV{!@u]`^RA?ugw~=Il5\\>x!UfS\'=kb%9e{VQ%uOlcl(dK\'%V[I*D3*_#smS', 'Z1BYD>bzBj<F,^R6|@U,@rbN6e_@`oEX.cZ|}=b \\VQ]o5R:x]k4qkNi\\?["~_\'sYFO6``2LvSW-XpL3A?Re)yB(y_I;4ei7z[@t?W5"wKoY@~o5%ktcT{BlyNv,?L\\H-4/6E1%hSGnO{yV6[8\'8fuyi8k [?=QUKor**yIyHP2"yB!`tL\\5HS9Xb-`[%sqE"l#8f<&0}~Bc#', 'A\\rjqd{t~R~&L#gZO+E06\')6xg#g~[` li1;?kPd8%T1_YXZh5LBB[]-bQaZ2iU(cc)Z&gB-WQqEHbWCbB%UO4xYoHp3Yz-!X RFBhkVv1UOYi[h\']KSj368(4P^Uikz Tefmb.rySesgQ`Me8}2!q=0fnnq4$$$Haw4>S7)I)cTe=nI-%0O9QZ+_^|ZB"z\\ 5UDw1xJa,TdAaM||+m3dWKY:}I', 'e^#f?sNT1V9$Gt2`SbUNxA<flS#"nkd&!X_b}ssL\'y%&er}4}f?O\\!,TMgvpt}$plD9J#{&p[Y ', 'eyR"*+7kLqv? zE:Er9fyH]m_~=/9HFSx;}59k55R\\?(oFy\\pA', "yao0(Be64F;;KJ9M(9!$s0!'=rbJd1|Fl=Fh9s;\\w\\K1?BVPE1@C9p", 'Wu`pZ.oTEA5n,?)6l^Gs,"\'Utj.Y&SX7fZe:vdXs]?)w,', "i,jOi[Q<*kw+y^x8>k`hend|uX(.P;`~!z-hg%JI}zsjLs#NU*Z<c\\ueT=uq;2F@tWt7)[{,2[%H'UuEDnCp^$wR*\\b>. 8^48Lsh=OGBUL`y(xN#+@URGK(}wzZ@0BHf C.c!9:,x~B{C_Anp,82wF?`'B.8,+(6/~X:s;&U2AZHn@C", '[|=j6STwa tve+0W~12]4hFR&!8;g|D8b-', 'f.:l{n7YtMNVS', '+}T{,qllk#H\\?.-9-)xHY$u(!%Y}<Nib#bY;"&UNW8p^zpiu{CX8QdgA$vEgOsHTg:,>}&-SFht:9tOV^q.gps;D#ER6_NydrTH~S?NT65}CzOn\'qc{O}ON.)M;e28bk87BJ@oNK)G2;Zc0m!k7e-Z%[v[vlVjC"y/IjI+*X$bKP+[e/{vpDF$efvDtz+M,)_(666zNq*l"o_T&nUX~Lf)Lel&!t<=}#b/5|xB9.U?p/S@~ l^m% -sFNwUi7Bk3I3AT[G\'Frb,OtYSp<l$S>>;4p%s47v}I)ki(-Z87Uc{6n^!S8;l+(oKm8lYlc,$YZ;-cvH}74G&1pa&y i^~H[bo_jC/"xVhjjQ,V:j=k\\\'Sn$', "s T>~'>l7/5w)]z2,fYn7}c~Y(rNJ?*hxsL/W", 'I Pg*es*VU;\\%uaiRw?Bo(~[P5nA4!s=4Beq>N', 'P8g|+OTSUPvpYGE%ZSRCw1e~#d^GiXPXvyL[Gm<jAikSVil5|s6lo#>@`J/>vcOC0HPIIRkgG_R|iO_JW1`g\\k_1W\\kk1b;/yh*B%.2meryc"jn<Ts0la9UYg[vT=oI^Z-36/N5|.h|?%Opw~U/[:heb>%c8E$[j{}\\lE<CoNNZ 7C`frY6%u+)Ii/LB@7;W) ^?<?!9LVSnhec^,B"dGcXjs~*n J\'*h{9Xy3 wq/&_j0\\U?eg?0k!m=9TrC0<{k\'o5W0w5=0ZaJE\'9g*C;]MO^y*s#}SEJK!X^4cQDyH6-&$9xJupn+Cns*os>q+HPyT', '`7!NO//8fvHSS-r1*_( (.QQ};rK6TY+hk|f)/YC5ykN/|OMU-NX>-Zl9*;I(s,_8+)Z:`Afx>yL/T-^ic0c1j$.@ TttD)ZMq|m]`3hvl"dwa[Fl^[X{{UL"c|NpCb\\{QWjm>b*9!0^dE12Q+am?:S[@+w=lIk&4Nab-/0wDEt,LY\\ZoowL)<2m$6t?fO!@dhifl', 'j$`]SuQd3nUrx3YRt_$"N+])CY3%m%!EeImOu>Lk$c_7%kcL}d0KOBR|rB/ZCmIO(m#[lb^y30p5ip;( yWK,wi*+nGf+&}KDn1NX/8]mE5lW1}jSzTa12Y97QJ2mSOS1\\#\\\\Dn<}.rBXO6VKhW#lv(Ef!Z*#L%0G~']
+'-N+0Z%' with 0.0% similarity/fitness
+'nyS^\\' with 0.0% similarity/fitness
+
+Generation 1
+['-N4:Z/', '-J&0Y', '-N+"W%', '+N+@f', '-N+0Z(', ',Nw3I%', '-N+0N', '/N+0Z# ', '!Y+%\\%', '*N+0Zw', '-N+0Z%', '0N%6Z%', '!N>0Z-\\', '-Y+|_}', '-M$3Z%G', '6T00e,', '1N+AZ%', '-M-0Z(P', "-N'0i#", '-N+0l%', '-N+0Z!', '+M=$Z', '-N 0Z%', "-N'0Z*", '-E+0L%', 'n*[^XN', 'nyE^\\=', 'nyS^\\\\6B', 'h&S^\\\\', 'ngS^S\\', 'nyIUkI', ']&Sco\\A', 'cyf^\\\\', 'n!S^o\\', 'nyS^\\]', 'nyS^\\\\', 'n~Scn`', 'nqSK\\j', 'nxSQ\\', 'nyS^\\iG', '"yF^\\[oG', 'n(D^\\O', 'nyZ^\\\\', 'n}S^\\XH', 'ryS^XV', 'nyS^\\a', 'ngS^', 'nyS^\\aW', 'p,SQ\\j', '~{SkU\\']
+'n~Scn`' with 16.666666666666668% fitness/similarity
+']&Sco\A' with 11.11111111111111% fitness/similarity
+
+Generation 2
+['n~^Sn`.', 'n~Scn`', 'nqScnb', 'k0Scn`v', 'n~cbi^', 'npScn[', 'lzScn`', 'n|S^', 'k.Scn`', '|~Bcn`', 'n~Scn`', ']|Sur`', 'n2Srn`q', 'nnVcn`', 'n~Scn\\u', 'n#Vk~`', 'nxScnY', '^~S_e', '_rScp`', 'nnXcz`', 'w~Su', 'n~ecnX', 'h~Scn`', 'n~SRk`', 'q1]Xn`', ']&Sco\\', ']&Scp\\A', 'b&Srs\\J', '`&cco\\A', ']&Sco\\7', ']&UPo\\A', ']"Sco^D"c', ']&Fco\\2', 'S&Sc~\\A', 'o&SWo\\EM*', 'V&Spb\\A', 'e#Qc^\\P', ']&\\co\\9', ']&Vc^\\AX', '](Sc_', ']&Sco\\;', ']&S`d\\R', ']%`cx\\A', 'j&Spo\\5(', 'e1Sc{JT', ']&Sc\\\\A', ']8S]', 'P1^co\\AW', 'X&Suo\\9W', 'h&Ugo\\']
+'n~Scn`' with 16.666666666666668% fitness/similarity
+'nqScnb' with 16.666666666666668% fitness/similarity
+
+Generation 3
+['n~ST\\X', 'e~Srn`', 'nsScn`&', 'n%[cn`', 'a~Sc{`', 's&ScnR', 'unWcop9$1', 'n~Scnj', 'n~OPn', 'n}Ec', 'n~Sin`', '!~Scn`M', '"~SctN', 'u~Scn`', '_%Snn', 'n~fcn`', ']pMi}`', 'nxAng`', 'b~Scn`', 'h2Sck`,', 'v~Scf`Y', '~~Scnb', 'n~San`', 'n~Son`', 'ptYfnU', 'nxdcn^', 'yqScnbD', '^qSgvb=', 'nqSUjb', 'vqScze', 'nlB_n]R]', 'n^^cnbU{', '^qSW_b', '|qScnb', 'lqNcnb3', 'n SchV', '{qSfa', 'xjAcnL', 'n#Wc"q', '_qPclb\\', 'eqSj', 'rgSraU', 'shScnbI\\', 'nuScnb', '`qScto', 'nqScnb', 'nqSc}b', '\\}Scg', 'o#ScgbJ<', 'oaScc']
+'oaScc' with 27.77777777777778% fitness/similarity
+'n%[cn`' with 16.666666666666668% fitness/similarity
+
+Generation 4
+['o`Gjsf', 'oaS', '^mSo', 'iaSccuh', 'oaScc', 'oa]cZ', 'aYSVcE', '"PScc', 'oSScc', 'oaIcuM', 'okPgZ', 'oaTcc', 'yaUcc', 'obScs', 'daS[i', 'oTSTc', 'oaScc?', '|aScc', 'ojScc', 'maScc', 'ma@coXF', 'osXW', 'olScc{[', 'obeQc', ' d_Rg', 'l)[c"`', 'n%[VnW', 'n%[dy`b', 'h8]co`', 'nzZc![', 'n%[cn', 'n%[cng', '[s[cn`', 'n%bin`', '{z[tnj[', 'nzkcn`', '!%[ve`^', 'n4[Zn', '^2Liti', 'n%[cn`', '~z[cn`', 'gtlcz', 'n%ahn`', '{4Uun`', 'u%fq!`', 'n![pn', 'j%[tn`', 'y%`vnk', 'n{[pns', 'k+kc]`']
+'oaIcuM' with 50.0% fitness/similarity
+'maScc' with 44.44444444444444% fitness/similarity
+
+Generation 5
+['ldCc', 'oaIt ', 'o[Bcu:', 'qOIcuYZL', '"qIcu<', 'oNIcuR^', 'oaIcuM', 'oaJue', 'oaIcnM', 'saCcu', 'jP:nuM$', '!aIcuV', 'o[IcuM', 'oaIc%M', 'oaIc', 'oW7vgMv', 'oaAjv', 'opIctL', 'oq7cuM', 'oU;rmM', '\\a\\ugJ', 'oaKquM', 'qkThkM', 'raAcuM', 'oaIcuE', 'oaHv', 'maeZc', '}accY', ' lSjc', 'maSc`', 'ZiavU', 'maScc', '|a@[n', 'mPSs', 'jaScn', 'mWYcU', 'mX_pc', 'ma]cc', 'maSdc', 'laNcc', 'maSuvq', 'm`Sc_', 'maScc', 'sWSkcy', 'raDYft', 'ngScc-', 'n_Acc', '}aHcebo', 'xrYvc', 'maScc']
+'oaIcuM' with 50.0% fitness/similarity
+'!aIcuV' with 50.0% fitness/similarity
+
+Generation 6
+['!^Tcu<', 'va9duM', 'oaOWuM', 'eaIc|Yl>', 'saIcuM', 'gaGcs', 'p[Pcu\\*#', 'maIc M', 'oaPcu`', 'oaIc|Y', 'oaIqu', 'oaIquMU4', 'uaIcuMfY', 'osIfuM.', 'ucUfuM', 'oNIPu]', 'ohIcuM', ']aIcuP', '_aIY', 'odIcu=w', 'oa8crM', 'oaImu^', 'chIcu>', 'oaInuPqW', 'oaTt(M', '!aIcuV5', '!aI\\uV', '!aI]hV', '!aIcunw', '4aIvuVy', '!tI[dV', '!a7s|V=', '!_Icu`Q', 'taIcuV', '!\\IcuN', "!SRc'D&", '!aIc{', '{rIcu', 'qaIcu', '!aIcuQ<', 'oa>cuV', '!NIcuV', ' aIduVu', '!aIcuV', '!`LcuI', '!aUcuVp', '!aIYjV', '!d:suC', '!QJcuX', '!aLcgaxJ']
+'saIcuM' with 50.0% fitness/similarity
+'maIc M' with 50.0% fitness/similarity
+
+Generation 7
+['sa?cuM', 'saIozN', 'saIfuM', 'spXs$Z', 'saCcuM', 'eaIcx_', 'sqIZuM', '!aIrkM', 'saIqlM', 'gSZruMm', '"a:cyM', 'scMa~S', 'xcIcuM', 'skJYuZ', 'sVIcu\\W', 'saScus', 'saNc', 'vWI]q', 'uaIc!ZQ', 'sp7Qc[', 'saLauM', 'saGkmM', 'saI^nM', 'jaPcuR', 'saIc|<', 'maIl ZK', 'maIQ M', 'maIZ"M', 'fo?c ', 'mYIc(M', 'yaIc ', 'mkKW ', 'mT?Z @', 'mmUcqZ', 'e]>c M', 'maIv', 'maIc M', 'mpI^zM', 'maIW M8K', 'meIR G', 'm\\Ir ', '|aIq M', 'uaI_rM', 'maIc M', 'maIc M{', 'ha6c-M', 'ma\\c M', 'mfIc M', 'ma<R)M#t2', 'zaIc M']
+'saScus' with 66.66666666666667% fitness/similarity
+'sa?cuM' with 50.0% fitness/similarity
+
+Generation 8
+['so^Zjr', "'aSSus5Q", 'saSczi', 'tfSpds', 'a^Scuw', 'saS\\uf', 'siScus', 'sabchs', 'saJcus', 'sRSYu', 'saSmuh', 'saSjus', 'saScus', 'sa[Uu', 'sSSv$', 'hRSo!s', '#aJWuo', 'saSYus', 'saHduiA', '"aScu', 'saScus', 'sUSc{m', ' aFcz"', 'sUKcus', 'saScu>', 'sX?v O', 'sa,muM', 'sl?uu<', 'so?cpM', 'pe?cu', 'gk1cu', '&lGcxM', '"R;clF', 'sa?csN', 'sd?cu', '#nAZuMy', "'a?cuM", '#\\?r&', 'ua?cuX', 'sa?cu', '}a?pu=', 'saBcuYL', 'maMQu', 'saJc&M;', 'sa?cuc', 'kR/t', 'ma,tuMGF', 'saC^fR%', 'g_:cs', 'mUPcuq']
+'saJcus' with 66.66666666666667% fitness/similarity
+'saScus' with 66.66666666666667% fitness/similarity
+
+Generation 9
+['saJqgs', 'ra9euw', 'vaAcus', 'saJcx', 'isJc', ' cPcic', 'hoUcksVS', 's^Lcgs', 'sa?cF', 'saJcks', 'saJc$a~', 'so\\cuy', 'sO=mu}', 'saJPt', '#aWfuf', 'j`Jcup', 'saJcu', '#QMcuu9E', 'aoJcus', '~T\\p', 'yaJh"s2', 'saRTus', 'seJc&sv|', 'sNJcub]', 's]Jcns', 'kaSc', 'paLc({', 'saScus', 's\\Sc$', '#aSc#sc', 'saScxs', 'saSU!', 'u\\Va&h', 'sP`dtl', 'oaN_un', 'saPeq%', '~aScu4', 'smScu', 'sNSk%m', 's\\Scws', 'kaSawy', 'sqScxs', 'saSSfs', 'naScus', 'saHcuo}k', 'sQSctx,', 'saWcus', 'saOcup', 'saScfs', 'iafkvs']
+'vaAcus' with 66.66666666666667% fitness/similarity
+'saScus' with 66.66666666666667% fitness/similarity
+
+Generation 10
+['vaAcus', 'hYAqix', 'pa=c', 'vaEctsx', 'vaIcus', '{cAcus', 'vaGcu%', 'wcAqxs', 'vaAd("r', '(N4cff', 'va9cus', 'x_Icus', 'vRARus', 'saLYuw', 'sa>cuq', 'vaAczs', 'vaAcuQy', 'wmArus', 'v`Ncu', 'vaBcus', '~aApus', 'vk0tus', 'frAuu', 'va1eus', 'vaAcms', 'saScl', '%aSc}m', 'daDcus', 'ssSa|c', 'iPQ_u', 'saSQ$s', 'saMcus', 'wr\\tus', 'baFcu', '"aWc:z', '}aSc', '$[RZu', 'sadlus', 'saEcmw/', 'saFc~i', 'saScuqx', 'saSqu', 'faSVgs', 'sWFc!#', 'sPccxs', '`aWcusI', '"aScus', 'sgScus', 'ssSc&s', 'sdDo)sD']
+'vaAcus' with 66.66666666666667% fitness/similarity
+'vaIcus' with 66.66666666666667% fitness/similarity
+
+Generation 11
+['vhAcus', 'vNEc', 'vYAu', 'haAc)', 'vbF`gk', 'maAcxd#', 'vrAcup', 'vaOcqs', 'vaATua', 'vaAcus', 'heA_uk', 'vfA^us', 'vaAcus', 'vaAa&', 'zaAhu', 'va4k"uQ', 'vQScuslwX', 'ra5c', 'vaAczs', 'vXAZu', '(aBcus', 'yaAlus', '{aTZp ', '~aAcu!', 'vO6cus%', 'vaQpus', 'ka6X%sb', 'vaW', 'flIcusj]1', 'vbIcukF', 'va<cus', 'j_Tcus', 'coJcus', 'vaIcys', 'cUUcus', 'uNIcu', 'v_Zrjsa', 'va6cus', 'va;cu', 'vaIb', 'qaIcs', 'vaUcus', 'va@cus', ')kIcuzU', 'vaIcus', 'vsIRus', 'vaBc!s', 'g\\Icus', 'fiMc', 'ypIqh']
+'vaAcus' with 66.66666666666667% fitness/similarity
+'vaAcus' with 66.66666666666667% fitness/similarity
+
+Generation 12
+['vePWxsI', 'raAcu', 'vaCcu%', 'vOA[gs', '*pKc~ ', 'vaAcu', 'nfAcus', 'vaAc', '|aARus', 'vaAfpsP', 'zaP[k', 'vRAcuw', 'vaAcl|', 'vOAcus', 'llOc#s', 'na/crs', '$QAr"s', 'xfAcusV', 'vaAc', 'vaAcsi', 'vaAc!s', 'va.cms', 'vaAcu', 'vaASes', 'va;cns', 'vaAj"s', 'da8vus', '(aAjuy', 'vaAcvsA', 'xOQk)s', 'va1cus', 'ygBcor', 'vaAcu%', 'yaAru', 'v^Acu', 'v[Acu', 'v`Ac', 'oaAcus', 'vaAcuo', 'ma=Vu>', 'vaAnus', 'vWAPus', 'vp1Pus', 'va1Uu', 'vb=cug', 'v_.cus', '}aNcux', 'vaAcus', 'vaSUuS', 'vaAcss']
+'va1cus' with 66.66666666666667% fitness/similarity
+'oaAcus' with 66.66666666666667% fitness/similarity
+
+Generation 13
+['vaAius', 'va<clw', 'va$cusgW8', 'za1quk', 'va1cqs', 'vc1cus', 'va1c)s', 'va1cuc', 'wa1cup', 'va1cus}', 'vq2cus', '#a1ccsR', 'va1Zus', '}a1Smg', 'v[1gus', 'vjDcus', 'vl9cus', 'ra2`bd', "vo1c)'", 'va1cus', 'vT#jqs', 'sa=cus5', 't^1c#s', 'va1cps', 'va1Zim', 'laATuz', '!a?cuzV', 'obAcmsG', 'laAmus', 'icAc', 'oPIrut', 'oaAous', 'oaAcus', 'oaAc"s', 'oaAcu{', 'oaAcu|', '~aNckc', '!aA|', 'oaAcus', 'oZNcU', 'oWScd', "~e=g'~", 'oaAP', 'oaAcu', 'waAuut', '!aAcus', 'oaA\\je', '\\aAnus', 'oYA^ua', 'oXAcxx9']
+'va1cus' with 66.66666666666667% fitness/similarity
+'oaAcus' with 66.66666666666667% fitness/similarity
+
+Generation 14
+['%a)cus', 'va1Wg', '|T1`', 'vd1cua', 'vX Tus9', '(d1Tuw', 'qa1uus', '$\\>lus', '{a1cum', '%a-cus', "vh$c'swq", 'va7Wu|', 'va1cu#', 'va1iuk', "ja#Su'", 'dg$^us|;', 'va9qx', '#a1cuIS', 'yaDc$', 'ka1cos', 'va1clq', '&X1rus', 'va1cu~4}', 'va1cuy', 'v^;[rs', 'oaAcus', 'oa6cu ', 't]0cum', 'sa@cb$', '~aAQul', 'gaAU{|F', 'ojB^~"', 'onIYfw', ']aAc#?', 'saA]zs', ']aNczs', ']aAc}s', 'oaRcks', 'oaAo~#', 'oaAcut', 'xaG2', 'oaA\\#', 'orAcus', 'o]Ac&s', 'oa@cbsJ', '}eLP|s', 'faAcu%', "oaAc'~", 'oaAcu', 'oaAcE']
+'%a)cus' with 66.66666666666667% fitness/similarity
+'%a-cus' with 66.66666666666667% fitness/similarity
+
+Generation 15
+['%a)cus', '%a)cxs', '%O)kus', '%s)uhu', '%a)cu<', '%a)cz&', 'xa)cuwe', '%o-_us', '%a)cqs', 'xa)X', 'xa#bfz', '%U)cub', '%a)cus', '0aucfs', '%a*fus', '%a+cus', '%j{cus', '6[6Tus#', '%a)cts', 'xf)Vul', ",h'slskb", 'zf)c}x', '%s)c)', '%a)cu}H', '%a<cu&', '%d|cyk', "(a0cn'", '~h%cus', '%i-cus', '%a)cus', 'ya-cws', 'rf1S}s', '%Z-cg', '(a,_cnZ', '%a-u', '.k-cul', '%a-c!s3', '%a-cvn', '%q}\\um', '%a-ous', '%V-j$d', '%a-cu$', '5Q9cusy', '%a-cuh', '2aycuc@z', 'sa-cysa[T', "+a'c|s", '1q?cus', '}a<cus9', '}a>cus']
+'%a)cus' with 66.66666666666667% fitness/similarity
+'%a)cus' with 66.66666666666667% fitness/similarity
+
+Generation 16
+[' V+cui', '%a)cuh', '1a+cu', '%O)c!z', '%a)gus', '%axd', "'a)Z'h|1", '#a)_u{', '%a9cfsg', '%a)cu', '%Yui)', '%tzrus', '*R,cus', ',a)c&s*`', '%a+cu', ')r4bui', '%i)cu', '%a)cuv', '%a)cus', ',a8u#t', '1])j"', '%a)cus', '%a)pus', '{a:cps', 'tg)cxs', '5a}kjq', '%a)cvsV', '%a)cus', '%a5cus', "7a'cus", '-a)c', '%a)cu', '1a)cus', '%awcu', '%a~c(s', '%a{cu', "%P'Qus", '%a&V)', '%a)t"s', '%a)cuj', '%a)eus', '%a)cu', '6a)clm', '%l)cusR', '3Twcvs4', '%e)] }', '%a)ct', '5g)suh', '$a)cus', '%[$cu|']
+'%a)cus' with 66.66666666666667% fitness/similarity
+'%a)cus' with 66.66666666666667% fitness/similarity
+
+Generation 17
+['8a)cdC', "2a5c's", '%T)c', '%a)cn ', '%a(iu', '%a)^u', '%avc"a', '1q6Zug', 'ua)cuoS', 'yr)sjn\\', '%a)pk', '%`)jus', '&a|c', '*a}cuh', '%O:Yu"', '%a2cusK', '%a)cu}a', '{a)cus', '%a)P{sU', 'sq)cu', '%axZuuD', '%awc|s6', '&a0c&', '%S)c(`', 'wa)', 'vpvcur', '%S)cu ', '1a)gttD', '%\\~kur', '"P)c!sq', '%a)\\q', '%a5uus', '%a)c$s', '0a)c~v', '8a4c', '8a)u#s', '"a)ccq', '%X)cu!*', '%a)cus', '%a)_~q', '%c)cus', '%n)cr ', '%O.cu4', '%g)U)m', '$a)cps', '2a$^dsv', '%a)cui', '.`4cpv', '|o)gus', ' ^8lus']
+'{a)cus' with 66.66666666666667% fitness/similarity
+'%a)cus' with 66.66666666666667% fitness/similarity
+
+Generation 18
+['xa)', '{a,o$m', '{a/', '{a)[u', '+a)pum', 'qq(cms', '{d3hds', "{axcu'", '{a)U', "{a'cts", '{g)cu"', '{o)cuh]n', 'oU-cu', 'va1c|s', '{a)cn}', '{g)T&s', '{a)iu#', '{a)`s', '{b)cus', 'qg)cus', 'oa)cu', 'xa<Vp', '{c#Vu', '{i4cns', '{a6cw[', 'xa&', '%a)`w&Mm', '%aucus', '%r)cus7', '%h)chd', '%a)c~so', '/a)rua', "%a'cxxG", '%N)em`', '%R)c( ', '%Q)cus', '{a)c', '%`3cre', '%V)cus', '%d-Sus', '5a)cus', '%a)Pne', '%a)sus', '%a&]uf', '%Z)c|c', '%l)css', '-a7cus', '%a)cu', '%n)vus', '%a cu']
+'%aucus' with 66.66666666666667% fitness/similarity
+'5a)cus' with 66.66666666666667% fitness/similarity
+
+Generation 19
+['%kuc}%_', '.amcus', '%ascx~', '%jucu', '%a)cujD^', '/tuTc&', '#aqcvs', "(auc'e", 'uV&cus', '/myhu|', '%auq', '2h)^u<', '%auqus', '1aucqs', '%_fexmN', 'xezcus', '%tuuz', '%aeclv', ' quT', '~auuu', '%_{_us', '5quc!p', '&a$cus', '%cuc|s', '%a~c|b', '5r*cus', "&a)bu'", '%a)czs', '5Y)cus', '6a)vu', '7a)cug', '5a)sb', 'Ba)cuo', '5a*aue', ')t\'qus"', '5a)[uv', '5b)d sm', '5f)ck~', 'Ga,cus', '?a)ck', '5V)cuk', '5`)Puf', "5a'Yus", '5V)v~s', '5m5ors', '%a5cusL', '5r)cn', '>a)co', '5Q)c{', 'Fa!cbs']
+'.amcus' with 66.66666666666667% fitness/similarity
+'&a$cus' with 66.66666666666667% fitness/similarity
+
+Generation 20
+['.amujsi', '.qpousg', '.b_cu$', '.aqce', '.a_su', '?aacu:I', '.amc#s', '.amc s', '|OccuzN', '.amcus;', '<az\\us', ".c{c'", '.amcyB', '8apcu', '.a]cjs', '.Omcu$', '.avTcs', '.dqcus', '.[mcu', '(am\\ds3', '.a]eujF', '*Omc sEP', '.amc', '}bmcus', '~accus', '&a$m)', '&a#\\us', '2N7cus', '.gxcuf', '}i$jos', '&a$c~s', 'sQ$cu', '&s5cun', '&^$cjq', ' a$t!s', '\'a"c', '}a$]|"', '&a$Ss~', '&j$cus', '&a$uus', '8a$c', 'z^0^', '&f$', '&a$Yosi', '&a$[}s', '&a$cusZ', '&Szcns', '+azor`', '&a{cus', '&a$pus2g']
+'~accus' with 66.66666666666667% fitness/similarity
+'&a{cus' with 66.66666666666667% fitness/similarity
+
+Generation 21
+['~iic(s', '~gccu', '~aXme`', 'qa^uu$', '~adcus-', 'wrccus', '~cU]us', ',askvt', '~Rulua', '~acroi', 'wacmus', "~accus'", '&ach)s_', '~aScus', '~Qpcu}', '~Racqs', '~accu', '~occns', '~accu$', '%accss', '*Rbcu-6', '~accus', 'tacclb', '/nccw`', 'tmTchq', '&a{cus^', '}a{cua', '&a{^rs', '&k{czs', '&N-Xu', '&a{cus', '~a{cu', '&a{c( ', ')`{cu', 'ul{lud', '&axiu{', '&a c~}', '&g{[kkP', '&jvcuu', '&a.cux', '&P{cus', '+am', '&a{cb~:', '&a{cu$', '3awcuz', '&ancu&', '&V{cus', '1sscus', 'wa&cu$', '|a#kuf']
+'~aScus' with 66.66666666666667% fitness/similarity
+'~accus' with 66.66666666666667% fitness/similarity
+
+Generation 22
+['vaScgm', '~aScu!', '}bSc/', '$mCcfs', '~aacus/', '~hSvus', '~aScu ', '~oScfp', '~jScuy', '~accu', '~sScus', '~YScuz', '~aSVus', '~accuq', '~aSc&s', '~pScus', '~aSi s', '~aSc#s', '~SSpjs', '~bYc!s', '~aac!s', 'kQScuh', 'pgSPus', '~aQcus', 'paScug', '~lgau', '2acbz', '~Nc]u!', '&PVc6', 'vVccu', '#mtcus', '~bjcuc', '~acfuf', 'tVvpisl', '~acjys(', '~acmusi', '}aaRu', '~aYc&s', '~a^czs', '~TZcus', '*TTcp', '~tZvus', '"`pcus', '~tccrq', '}accusob', '0ckmqs', '0accfs', '~Nc]u', '+acc)sS', '~edcus']
+'~aQcus' with 66.66666666666667% fitness/similarity
+'~aacus/' with 61.111111111111114% fitness/similarity
+
+Generation 23
+['}OQTus', '~nBcus', 'waQhu', '~aQcus', '~oQcvs', '~jKcu', "~_Qiu'w", '~k\\mus', '~XQVu', 'zoQo%s', '~qQcwa', '~aHchs', 'raAcus', '+aZc f', '~OQcub', '~aQcgpN`', '~aAcus', 'saHcug', '1aQcua', '~^Qcrm', 'naHlef', 'n_Q_', "'d[cus", '!aAcuu', '~OQhhs#', '~ZXcus/', '~c^oes<', '~aacuw,<', 'x]acus2', '~aaYus/', '#__cu"B', '/abcuu/', '~nam)sf', '~aacus', '~qbcus/', 'raa[uf+', '~OaTuz/Y', '~cZcds/LPF', '~Vacr', '~aku s|', '~aaccs/', '~a\\cus/', '#lacrs?', 'kaabrs', '}aacuj', 'kjiqds/', '.aadus/>', '|aacu$(8', '~RiSrs/', '~aac~s/p']
+'~aQcus' with 66.66666666666667% fitness/similarity
+'raAcus' with 66.66666666666667% fitness/similarity
+
+Generation 24
+['z_Qcus', '~a?pu', '~a[c"c', '.aQcjy', '~aQfu', '~r`cu~', '"a]cd', '~aQcus', '~XTc!d', '~]Qc)s', '*a^]u[', '~kQcd', '~hQmy"', '~cQcus', '~a\\pm', '~aJa!m', '}gQcuy', '~RQcus', 'xaQcu', '+adcqs', '~UQies', '"aDces', '~aQcusPy', '|aV^u&', ',aQcu&', 'ta>', 'ra@ils', 'rWAc! ', 'ra1c~', 'rj.cus', 'vaAnvi}', 'j]1Rjs=', 'cfAju~', 'rQJpzu', "jaAc'", 'raAcun', 'rXKcu|', 'haAPjs', '{pAl', 'dZFru%', '{aAku', 'ro9cu', 'rdAsus', 'rOKenz1', 'qaNcus', "oa=hus'", ' aDcu', '{a<cuk', 'ra7c4', 'rRPcb']
+'~aQcus' with 66.66666666666667% fitness/similarity
+'qaNcus' with 66.66666666666667% fitness/similarity
+
+Generation 25
+['#cKcms', '~aQQts', '#aDcqs', '~aQchs', '~lQsts', 'mhQcu}', '~aQk~', '~aQdus', "&STcus'", '"pQkyhj', '$aYcu`', '~dQc i&', '~aIcur', 'kPQcis', '.aNcus', '/aISusNR', '~aQcx~', 'rgMcum', 'mmQsus', '~aQsus', '~aKcu|J', '~]Qc}s', '~aQc', '~aQcub', 'xaUf% q', 'qiNc', 'q]NRu]', ' aBcus', 'qaNcus', '_mNcnsS', 'qaNuu', 'qRNcuce', 'qXNc)s', 'qaTc!s', 'saTcu"', '~aNSrp', 'qaNax ', 'qcNP&s', 'qaNcu', '{aNcuu', 'qaKcuu', " aDc's", 'qaAeus', 'jPNcrs', 'qaGc', 'qnNcus', 'qWTcusY', 'q_Nvj', '^rNs(s', 'qeWtu']
+'.aNcus' with 66.66666666666667% fitness/similarity
+' aBcus' with 66.66666666666667% fitness/similarity
+
+Generation 26
+['&SNdy', "*aNcus'", '.aN\\hs', '+NNcus', '*aNcul', '.mNiuZ', '.aNc|s', '.aNcui', '.QNVus', '1aPcus', '.a>_u', '5aNcus', '.aNcvc', '.aNcu%', '.aN_us', '2a\\U s', '.aNcu', '.aEcra', ';aNcuh', '#NIcus', '/aWcu', '|aHcux', '2a\\cu\\', '.VHcu', '.a\\cw|', '#aBcW', ' aBpxs', ' aPqusO', ' aBces', ' \\B[cs', ' aBcrs', '$aBdws', ' a<czs', ' aMcqs', '2Z7tus', ' a0ho', 'naBPs&', ' a<cxs', ' aBc gk', ' aBcfs', ' aBcha', 'yaBcis', '&aBlus', ' a2cu', 'qaBW~s)', "woBc's", ' a/cus', ' cAmbsB', '%aBcu$', 'uaBexs']
+'1aPcus' with 66.66666666666667% fitness/similarity
+'5aNcus' with 66.66666666666667% fitness/similarity
+
+Generation 27
+['1aPdus', '.VPcus', '8aPltl', ')jPnus', '1aP_usx', '1aPkhwB', '1a>eks', '@[cczp', '1V[Ur', '<aPSub', '1aP]us', 'BaP\\us', '1aPUu', '?RPcus', '@a?vus', '?aPY w', '1gBcua', '1dAYuw', '1aPcls', '?PKdrj', ',bPc{s', '>aPru{', '!aPcu', '1a?Tus', '1bPc *', '%aCc|$', '5mNc{}', "5aXuu'", '5aNces', '5aNcutf', '5RNcus', '5ZNcus', '5aNcus', '5aNcu', '5aNbqs', '5Y;]&q/', 'GhNcos', '5cNl', '7aNcus', '4PZTus', '5rCo s', '7aScps', '5a[cbs', '6kNcu', '+aNcu', '5i]cus', '>mNg~s', '5aDcu', '+dAcfs`', ',aNcus']
+'5aNcus' with 66.66666666666667% fitness/similarity
+'7aNcus' with 66.66666666666667% fitness/similarity
+
+Generation 28
+['5aHcd}', '6aCius', ")a'", '5a`czs', '5aNcgs', '5W^cu', 'FXNSu ', '5gNcs !', '5aNou{', "'aNcds#", '5aNcus', '5aNepsJ', '@\\Wcus', '5aNiuw', '5aNsj{', '5aNeup', '5aNfuk', '"a@cus', 'FUNcus', '6aNfts', 'GaNce$', '5aNc% ', '+aH\\u}a', 'FTOc|s', '5aNt%s', '7cNcus', 'GaNcum', '7aScus', '7aTqus', 'DZNc)', '>bNouc8o:', '1fNcuo', '7aMcp', '7aN]hz', 'E^Nlus', '7aNY(~Tb}', '7gNcus', ',aNu%sl', '.mN', ')aNc|s', '7VG]us', '7jPcbs', '7aNcus', '7PTmusX', '+O?cqa', '7gNQ', '7aBcur', '7aNcqs', '7jac]', '7q?c)x']
+'5aNcus' with 66.66666666666667% fitness/similarity
+'"a@cus' with 66.66666666666667% fitness/similarity
+
+Generation 29
+['5aN`ua', '5`Ncvh', '5aNmuaI', '5oNluw', '5aWcus', '-X?p', '5aNcod', '5QNcoy', ':aBcds7', '#XDcus', ':qNcvs', '&aNdyq', '5aQcus', '5dNPbn', '?jNdur', "EaWc'a", '8WNu', '>aNfus', '9fNcos', '/aMc(x', '@aNcu', '5aN]us', '5aN\\us', '5aNcus', '-lNTu', '"Z@cu', '"a@cu', '/a@Pus', '$c@cu', '"a@cu`r', '"a@]zs', '"N@cuf', '"a@ci`', '"a@cus', 'yaFcur', 'sa@cl', '"a@ZusXj', '"R@cus', '"e7c', '"h@Y"v', '"s7c)s', '"a@cus', '+a@cys', '"a9eus', '"p@cum', 'ol@rps', '"a@cus', '5a9c', '"a@cus', '"aQu|']
+'5aWcus' with 66.66666666666667% fitness/similarity
+'5aQcus' with 66.66666666666667% fitness/similarity
+
+Generation 30
+['5aWh(', '5fOc&u', ':aWcuu', '5hVc)', '4a_cus', '8aWcus', 'GVWc{', '5aW[us', '+tWcms', '-qWc{z', '5aWSus', '5aDcuh', '5aWcuh', '5aWcub', '#pWc$#', '5SWc!s', '5tLcu~', '5aWcup', '5na', '(aWc)|', '3aWcys', '5aWcuwj', '5aWSls[', '5aUclll', '5aWc s', '5macus', '5aQ', '5aQcusI', '5eQX&s', '5X\\cuf', '0qQ\\uu<', '5a\\c x', 'HaRnu_', '3TGX~s', '>aVcvs', '5aQ', '/qQcus', '5aQiu`', '5gQc', 'A``cfs', '5aZcu', '5aQYu', '5aQnbs', "5a\\c's", '5PQaus', '@aQ_urjh', '5aQcus', '5aQcus', '5tJcbs', '4hVcscK']
+'4a_cus' with 66.66666666666667% fitness/similarity
+'8aWcus' with 66.66666666666667% fitness/similarity
+
+Generation 31
+['DX_uus', '8a\\cus', '4a_c)s', '>q_c(h', '4a_c"s', '+U_rud', '%a_gpd', '/P_Xuk', '+a_Zus', '-Tocu', '4o_iuj', '+a_iu', '4a_cu`', '4__cus', '5[icjt-', '4g_cie', '"a_c', '4a_cet', '7W_cu', '<a`_u%N', '4kgqu!', '4afcus', '%aqcus', 'Fmcc&v', '4a_cu_', '8aWcd%X', '8[Wcx', 'B\\dcts', '8aWP#Z', '/aWcus', '=aQc!k', '8Vecbw', 'KaPcss', '8aWcua', '8eJauu', 'EWWcu', '8aWc(s', '8]Wcus', '8aWcut', '8\\Wlu', '/aWcd', '8aWl)e', '8]TcbsN5', '=aWdnst', '8aWchs', '8cWcuv', '<aWhus', '8aW[up', '8aZgxs', '8kWdhs']
+'8a\cus' with 66.66666666666667% fitness/similarity
+'4afcus' with 66.66666666666667% fitness/similarity
+
+Generation 32
+['Kcdc}s', '8aXpubd', '/a\\c!s', '8a\\cua', '@a\\cu{', '8a\\cu', '8a\\q%s', '8qkcus', '8s\\co', '8p`Y#s', '8aZRgs', '/alUk/', '1a^cu%', 'CT\\c&h', '8a]ius', "'N\\cuv&A", 'Gj\\Yns', '8a\\Xu', '*aO_u', '<aPcus', '8a\\cunW', 'Hs`cfs', '8Z_c}s', '%a\\cw', '8fLcus', '4mac~s`', '6qmcus', "4afcu'", '4Sycus', '4afcuj', '>afcws', '4aZrfo', '7afqus', '4afnu', '4af[us', '4Vfcus', '4hvc%d', '2a^cus', '4afcqs', '4Ne\\us', ',afeus', "4aYcu'", ',agsusM', '4arcusy', ',plc(#', '4agqus', '4`fqu{', '4a[cus', '4U^cj', '4Wncg~i']
+'4arcusy' with 77.77777777777777% fitness/similarity
+'<aPcus' with 66.66666666666667% fitness/similarity
+
+Generation 33
+["4aq[us'", '#arV}st', 'FbrPu|y', '4arcu~#', 'Earcusy', '4avP|sy', '4axcust', '4a&cusy', '0nrcusf', '4Vrcu"j', '4k~lusy', '4arcuy', '4krcqsy', '4a|vusy', ',arcug|', '8Qxcusy', "'eenus!", '4\\kcusy', '4Yrous!:', '4arcunyZ', '4jt_usyh', '8arcuy-', '/afZus', '4Wrrusy', '4arcub{', '<aWc', 'GaPc)', '<aPfu', '<Q]_s', 'N]`c!s', '*XPcus', '5aPcds', 'KOPcbs', '<a=cu', '<aPigs', '<oPfusA', 'HZPc"s', 'CaPcls', ',aPnos', '?aPcus', '<hccos', 'LaPcus', '<XPcus', ')a?ccx', '9aOr#x', '<aBi(', '0Qccj', '<aQcu ', '<qPSzs', '<O\\cu(']
+'Earcusy' with 77.77777777777777% fitness/similarity
+'4arcuy' with 66.66666666666667% fitness/similarity
+
+Generation 34
+['Vomc}xn', 'EWrcu"y', 'E]mmus&', ';arc)sy', 'Eabcuiw', '5arcus', 'Earc!s', 'Eagiuiw', 'E`r`usyU', '@arc s"', 'Earccsy', '?arcos|', 'Earcusy', 'Qawrus', 'Eakcusy', 'Easvjsy', 'Lgrbusg', '3rrcupy', "ETrduk'h", 'Sag^us!o', 'Earcus', 'EarSus', 'Ga}cusy', 'KarWusy', 'Ea!hesy', '4\\rc#y', '?arcu', 'Gartuy', '7a{m', '<ancizn', '4grouU', '8a{]uk', '8rreuf', '4aepk#', '4arhu-', '4a{guy', '4armufsE', "4ard'l", '+crc|', '4nrcufc', '=krcuy', ';Vrcuy', '4arQhy', '4]reu', '7arcgt', '1a%Qsy', 'Gqrhuv', '4d~c)y', '4R cuyl', '4atc)y']
+'5arcus' with 83.33333333333333% fitness/similarity
+'Earcus' with 83.33333333333333% fitness/similarity
+
+Generation 35
+['5St`u}J', '5arcin', '5ar]us0', 'Bairu', ',aa[ub}', '5arcu', '?Trcj', '5Ohc#s', '5abcus', '5amcus', '5ar\\ux', '9afYue', ')atcc', '5alce ', '5S%cuvM', '5ayeua', '5a{cu', '1NrYuk0', '6Rrc', '5arYus', '#ahcns', '%arsuV', '5arcus', '5arius', '5arcc', 'Earqus', 'Raydn', 'Earcys:r', 'CWrc{w', 'Ea W#s', 'Eprc s', 'EarQuw', 'Earpz:', 'EarQfflc', '6[rcin', 'EarSu', 'Edcc|s', 'MkrYus4', 'Earcu&', 'AYrpus', 'Eamcig+', "E]ices'y", 'Earcul', 'Egrc', 'Earcus', 'Ebrci"', 'Ealcc', 'Earcu', '3]aWrs', 'Earcks']
+'5arcus' with 83.33333333333333% fitness/similarity
+'Earcus' with 83.33333333333333% fitness/similarity
+
+Generation 36
+['5ar^ww"', '5Yrczt', '1Z!nxs', '8aroos', '5Yrcmm', '5acuus', '5ariur', '5itVq', '5arius', '5arcjs', 'Carjes', '5N$Yue}', '$arXfs', '"arahs', '5Zrcu', '1arcus', '5trnus', 'Ca%kus', '5arcus', '5g"]u!', '#ar\\xf|', '5Srcvs', '5bvXue', '#arfu', '5jrq(s', '9\\&cub', 'Earuuq', 'Earcu', 'Earcos', 'Emrcus', 'Eaths*', 'Earmuc', 'Earcus', 'EWrVus', '<TsQu', 'Eaicu#', 'Xawcus', 'Earcuf', 'Fhrc|w', 'Eh&cu', 'Mcrs"', 'A^rcuy', "5a%cu'", 'Psrcus-$', 'Vivit', 'Jeyc~s ', 'Iar', 'EarcbsM', ':atcss', 'EPr^usu']
+'1arcus' with 83.33333333333333% fitness/similarity
+'5arcus' with 83.33333333333333% fitness/similarity
+
+Generation 37
+['1Prc', '1arjus', '(ajcxs', '1alcy', 'Darcu', '1areus', '4sycus', ':arqus5', '1orcud', '#arcus', '1areus', '-awcus', '$VjTos', '2mtpts', '1ircun', '1NrcssXw', '1amcuf', '~orcos*', '1arcus', ';crru', '#arcuf', '1arcu', '9arjup', '1Wrcus', '/Nrccz', '5ar]us', '/a`eos', '5d}`lp3', '@ar[u', '-aqo$9', '-arres', 'GarcusE', '5abTus', '5arc!s', '5hk[usc', ')ccqus', '5arl$s', 'HUrZk"n', '5Rrcu1', '5flcusc>', '5ar_us', '5f_cus', '6arc', '5awYf', '5Tr]u', '5nrZu{', '8aoauyS', '5a&cus', '5arc!t7', '5a~cus']
+'#arcus' with 83.33333333333333% fitness/similarity
+'1arcus' with 83.33333333333333% fitness/similarity
+
+Generation 38
+['#orcu!', "'arjq$", '#arYusN', '#agc$', 'qar]', '2arhss', '#frc{', '#arcus-', '#OrRu!D', '#arcys', '#Vosc', '#at[us', '*apWu', '#Prcuk', '#srcus', 'vcrqus', '#a}cts', '{arc$c', '#arc&x', '/arcu', '#ar[}k7', "#ariq'", 'xarf)s', '#axcu', '/arcus', '1bscgk', '1trcus', '1jrcu{', '<arcwsw', 'Dl|c(', '1arcus', '1arfus', '?akou~L', '1arcf', '1aruuu', '1a{R{s1K', '}Zrcus', 'Ch~cus', '1arco#z', '8arc#s', "'aucys", '1XjY$', '1agu$s', '1a~c(z', '1Srcu', 'Barcus', 'BT%]us', '1artus', '9a}cus', ',amcns']
+'/arcus' with 83.33333333333333% fitness/similarity
+'1arcus' with 83.33333333333333% fitness/similarity
+
+Generation 39
+['.arcus', '}arcus', '%arcu}', '/prcuy', '#areu', '/aicu"', '/orujs', '/arZue', '@acc|s', '/arRu', '/a"U(s', '!tr^us', '/`r`us', '/a|c&s', '}arck{', '/Trauk', '/brcus', '-arnus', '/arXus', '>a{cus', '/arcus', '/arUms', '/Rncue_', '/arvvd', ' atcup|', '+arcu{P', '3a{hus', '5fnkus', '1mrcus', '1archf', '2arcu', '1aucus', '1arnus', '"ac^us', '#arjm', '1auous', '1arcus', '1Wa', '0Nrcus', 'ATmcus', '1]rtc<', '1arb#w', '!arcug', 'Barcus!', '1arnul', '1arcu#', '.arc|s', '6Vrcs"', '1n~cus(', '1R|cuz']
+'.arcus' with 83.33333333333333% fitness/similarity
+'}arcus' with 83.33333333333333% fitness/similarity
+
+Generation 40
+['$arc#s', '8jaYus', ';Urcus', '1arczy|', ')aruu%', '.a{`', '.`rmus', '.aqcus', '.irm s', '.Xrc&', '.arcus', '@aaYu', '}arvb ', '.ircu', ')a_pu', '.prcu', '.ahcu', '.Qecus&', '4W c{s', '9qrcu', '{\\ud#%', '.Prcus', '.tieusg', '/abc', '7aycus', '+armus}', '~rrcus', '}njPu~', '}aisu,', 'karcun', '+amcu', '}armqq', '}Ytcus', '$rrbw}', '0ao]usUO', 'kadc(s', '}arcls', 'tarcutu', 'sW_cus', '}axcks,', 'jarcd', '}nrcusZ', '}arF', '}ervus', '}arcus', '}apcbg<', '}ar_us', '}a!cus', '}drp(s', '*arc%j']
+'.arcus' with 83.33333333333333% fitness/similarity
+'}arcus' with 83.33333333333333% fitness/similarity
+
+Generation 41
+['.brZ|s', '.trcos', '&arkog', '.]!Su', '1arcux', '@aihus', '.arcss', '.^rrus', '.arcuhj', '/amct', '.atcu', '%arcus', '6_rckq1', '.ardps', '6jrdus', '.aacuv', '"Urcu`8Vf', '}\\rvua', '(a}eqs', '.a~cuw7', '._rc$$', '.azdumK', '.^rcus', "znrnu'FR", 'zarSup', '}armus', '}arh{s', '}Qrcus', '}arfus', 'sjrcns', '*a ^gs', '}R!nu', ')brcrs', '}Ordts', '}arcu$&', '}arcp', "}aec'", 'kargutp=`', '$arcui', ' apYus', '+a$cus', ',[rcos', '}ar^#}I', '}jmcus)#', '}alrus:', '.Prqus', 'yarcui', 'oQrRuu', 'qZrc!l', '}arcy']
+'%arcus' with 83.33333333333333% fitness/similarity
+'1arcux' with 66.66666666666667% fitness/similarity
+
+Generation 42
+['%YrXu', '%`rcum', '%arQcs', '(prcus', '+arWus', '%arc"k', '"RbWus', '%Xucls', '.agju', '%arcyq', '2akcus', '"axtuk', '}arcus', '%jo', '%grcuw^', '%aroon', '0trguu', '%[rcvvW', '%ercuq', '1prcus', '%Rrc&s', '%a%css', '6anc~n', '%ajc!s', '%_rc}s', ' arcui', '1arcux', '1atcup', '1nmcux9', '1oimux~', '}arcup{', '1arcu%', '~arc# ', '9arTux', '<a cuq', '1Xrhux', '1a#cuxh3', '1ifcux}', '>bgcuq', '1Wrkfx', '1trcu', '1[r', '&arcu', '%[rcux', '1arcuj7', '1azc&|', '1Ticuh', '1mmcup?', '$gr[u', '!apcuxZ']
+'}arcus' with 83.33333333333333% fitness/similarity
+'(prcus' with 66.66666666666667% fitness/similarity
+
+Generation 43
+['}nr`us]', '}auj', '}af\\us', '}aovus', '}a|Wus', '}erYus', '}`rfu&5', '+orces', '0ar[{s', '1aruue', 'ma#cue', 'jrrcus', '}`rdf%', 'pa&cm{', '}ar^u', '.a&Xts7', '}arggs', '"prQ$s', "}akPu'", '}arcusb', 'qSr_u ;', '#Nycus', '*ar[us', '}jrv$', '}accrs/', '(pxq#s', ' pr_!k', '(prcub>', '(pd["b', '-prSuv', '%p~c%@', '( _bus', '{otcus', '(prcuuRo&', '{pqcu', '(ri\\;', "(prc's2", '(pruusR}', '(pleus', '(prcus', '(b!cxq', '(prnu', '($"ro', '(prcus', '7pscm', '"prcup{<', '%_rcqm', '(prcrg', '(pkcus', '(prc#']
+'}arcusb' with 77.77777777777777% fitness/similarity
+'ma#cue' with 66.66666666666667% fitness/similarity
+
+Generation 44
+['|arcusbr', '}arcu}b', '}a`susnD', '}aacu`bn', '}aifufb', '}arc}sb', 'm\\rti~b', 'warc sn', '}\\rcusb', '~srcolR', '}arcusd', 'uarmusbF', '}qvjusb', "0crju'", 'qarc)`\\', '|alc!%b', '}a cv!', '}k{cusb', '(mfv sS', 'oaekubb', 'sarcusb(', '}dacunc', '}arTfeb', 'zkrYus', '$a|cjeb', '~o#cueq{', 'Zc#cu_', 'msrcus', 'ma~ahe', 'mazcue', ' j#cuX', 'ha#kxR', 'm\\0cur', 'mN-cfe', 'mavtue', 'ma}c', 'vT#cu_', 'ma#bue', 'va#Ube', 'ma#cuvk', 'ma#QeVfVo?', '[Q#cue', '{c#cocpcJ', 'ma)mef', 'ma#]uetu', 'mn#ju', 'ma#c%n.', 'ma#c%e', 'ma#Rue', 'mg#cue']
+'msrcus' with 83.33333333333333% fitness/similarity
+'}arcusd' with 77.77777777777777% fitness/similarity
+
+Generation 45
+['mdrcug', 'msrcuk', 'm#rvmc', 'msrcil', ']qrc f', 'msrc#s', 'msrckn', 'mahc', 'lsrgsug!', 'me&cu"', 'mlrc)}', 'm%_Xuv', 'm!rvu~', 'm}m_%s', 'lskqus', 'm%!fus', 'sidcus', 'msznx$', 'c~ucus', 'mercus', 'msrcu', 'murc!s', 'dsrVuq-', '|s{c{s', 'm|r]u', '}lrcusZ=', '}XrYus', '.tqt wT', '}agcus', 'zazcu}d', '}arcusml', '}arc}zd', '}a&cugd6QU', 'nar[usd', '}o&cusd', '&grc(si', '}mrckif', '#arcus[', '{arcusd', 'uarcusc', '}arcusd', '}accfsd4', '(arcuw', '}lr^uuj', 'oarcus`', '}ahaudd', "}ar^u'd", '}arXusp', '*arci', ',arccsd']
+'mercus' with 83.33333333333333% fitness/similarity
+'#arcus[' with 77.77777777777777% fitness/similarity
+
+Generation 46
+['medcus', 'me{c~s', '{eze}', 'tercw', 'mlrX$k', 'mSri', 'mercus', 'merius', 'sWe[uz', 'merc{w', 'vescly', 'Zercds', 'htwc~', '`eicusC', 'mWrcus', 'mq|crs', 'mercuo', 'me}Yuz', 'm`rcus', 'mrvcu', 'mehc s:', 'mmrcss', 'berhu}', 'medcbl', 'me{cus', '#a!cms[', '!adc|', '#grcus', '#arcks[', '#auc|s[', '-arcus[', '#Xrcus[QU', "#gh]e'[", '%aiZuv[', '%crcus[', '#oacus[', 'xarcuoZ-gp', '+anc#o[', '*a{cuu[9', '#apcusV', '#aicos[', '#aru#sK', '#arcuu[', '4av^(s_', '#arcud[G', "*abXi'[", '0X~lgsV', ' _|cusM1', '~arQun[', '(artut[']
+'mercus' with 83.33333333333333% fitness/similarity
+'mWrcus' with 83.33333333333333% fitness/similarity
+
+Generation 47
+['wXrbuhJ', 'mnrRus#', ']UrZus', 'mehnl`', 'mjdcus', 'mUdc|', 'mercus', 'merc!s', 'mW!phs', 'mepUuH', 'rTqcvs', 'cvrtus', 'mrrcy', 'iercue', 'mezcu', 'merbu+', '}ejcuv ', 'me{ZusS', '|e#ous', 'merbpsE', 'merYu', 'meocug<', 'mercqj', 'mkoTu|', 'cercu~', 'bWrZ{', 'nWrbus', 'mWrcu}', 'mdrcu!Rn', 'jWicus', 'r[rVus^', 'aP#czs', 'mErcra', 'mWrnks~', 'mWrnid', 'sW~c)s', 'ma{c)s', "tS}d#'", 'mUru#y', 'mWkcuY0l', 'mWrv|s', 'lW"lus', 'tWrbus]T', 'mWrcus', 'mZr`us', 'hW&i#', 'bWrc', 'mW|Zus', 'mWrcuo', '^Wrcusb5']
+'mercus' with 83.33333333333333% fitness/similarity
+'mWrcus' with 83.33333333333333% fitness/similarity
+
+Generation 48
+['^dpsus', 'j[rQus', 'esmczs', 'meg^qg', 'merc', '[ercq|', 'ce ccs', 'ges`"sz', 'murcusl', 'mercus4&', 'de!bus', 'm^rc', 'mercxs', 'mircis', 'merctj', 'me}cus', 'md{cus', 'mercus>', 'mZ~tps', 'uir`us', 'mU{cus', 'mexcuo', ' arf%b', ']erSys', '!uc\\nsy', 'kW!cuam', 'mWrcud', 'mWrcu', '[Wquuy', '\\Wr[u', 'mWrYusA', '}Wr^uj', "mWrfu'", 'mFrtls', 'mWrcul', 'mQxc&s', 'lWrc#s%', "uerc'", '_Wrpur', 'hWrt#sj', 'mWrcuk', 'sWrcis"', 'mWr[usz', 'mXrmus', 'l`hcud', '|^$c$s5', 'mWrcusO', '\\Wrc(z', 'm_eYus', 'mi"crs']
+'murcusl' with 77.77777777777777% fitness/similarity
+'mercus>' with 77.77777777777777% fitness/similarity
+
+Generation 49
+['m}zq&sl', 'e~rc(sl', ' urcusl4]', 'mukczsfXC', 'm"~pusl', 'murc%s^', 'mwrcusl{9', 'wuycu', 'mur[ugxE', 'eu$cusl', 'Zuqcusg', 'axrcuul$', 'du!puslq', 'ru cxs\\', 'm$rcujZ', 'mur^usl', 'qmrcusl', "c'rcuzl&", 'vucjzsl', '}urcuslk', 'murc|ilV', 'muraugl', '}urjusc', 'm%rc se', 'f& cb{l>', 'oercuk>', '!Urvue>', 'merPut>.<', 'eejcus>', 'megVzsH', 's^rcu', 'medc$sJ', 'mercrs.', 'mer^|', 'msrcusIaZ', 'merpus=', 'mercu}', 'merlj', 'ymwdus>', ']eicu&>', 'mkj[us>~', 'ue#`xs>"m', 'oetcu%A', 'mepcus', 'mVrcleMC', 'mY&cpz', 'mgrsuj', 'mercul8', 'm_r`us>', 'mgrcus>']
+'mgrcus>' with 77.77777777777777% fitness/similarity
+'mwrcusl{9' with 66.66666666666667% fitness/similarity
+
+Generation 50
+[']YrculI', 'ygrius>', 'mgruusL', 'vq`cus', 'mgrfus>h', 'pgeccs>', 'mg!cusK', ']grcus>', '\\grc}o>', '_gpUsw', 'mgrcis2u', "mgrc's>", '_l!cu{/', 'mgrhun>Du', 'mgrcos>L', 'mgrbus', 'mgrq"w;', 'mgrcus>4', 'mircun>', 'mgrcue7', 'mcrT x', 'mgrhks', 'mgrc&gH', 'marcqsK', '~grc(!>', "qwrcu'l.", "mwrcu'", 'mggcps{l9', 'mwrf!|lt9', 'gwrcusl{2', "s'rcusl/94", 'mw"cuslj9', "msru%sf'9", 'mwrcu _{9*', 'jirqdkl{9M6', 'mw!cdsl{*nc', 'mwgausl{.', '\\trqus|i', 'nwrcwal{', 'mwr\\usY{9', 'mrrcu l)', '}wruuyp{A', 'merc&slz,', 'mwrcbml}9', 'mwrS"s{{7', '\\)rcusl-9', 'm{r_usl{1', 'ewzsksp{9', 'mfrTpsl}', 'n$rcp!l{9']
+'marcqsK' with 77.77777777777777% fitness/similarity
+'mgrcus>4' with 72.22222222222223% fitness/similarity
+
+Generation 51
+['merb|sK', 'eapcq`', ' \\!tqsKD', 'mV{pfsI', 'marcm', 'marcqsN', 'mircqsK', 'farl}sA', 'l\\fuq', 'maroqs#', 'mar_qsK', ' trR$#M', 'marU`s', 'mcrmqsK', 'narcqsK', 'zQrjqsK', 'marcqsK', 'pWr\\q%L', 'wa`cedU', 'davcq{K', 'marWq', 'uarclsH', 'marcgf', 'manoq};;', '\\aauqsK2', 'mg#cus>%', '_U#U)s>4', 'xgrcv#14', 'fgccus24', ']grcuw>/', 'pXrc"c>!', 'm]qcdi>4', 'mgcc#hL4', 'milcus;4', 'egucub>4C', '|grck|>', 'mw$Qus>p', 'mgrdzs>>', '[hrcos>4', 'mgr]ul>4', 'mg}cvs>/', 'mZrsus>', 'mnrcu}H4', 'mgrcqsF?', 'mgkPuaO4', 'tgr_m{AFX', '_jr`ms=:W', 'mglcus>4', 'mglc{sB0', 'qgrcusM*c']
+'marcqsN' with 77.77777777777777% fitness/similarity
+'marcqsK' with 77.77777777777777% fitness/similarity
+
+Generation 52
+['oarn`s', '^azcqqN', 'lagcm%N', 'm`rcqf', 'mq!cqsD', 'vaucasNH', 'qOycqsE', 'yadcssNz', 'm^qcE', 'mWr[vsN', 'martq{A', 'marcqsN', 'marcrsL', '!arvqe', 'mareqsN', 'maic%eN', 'mtrmqs[', 'bamjdeN', 'mafcqiN', "vTrcq'", 'marc$sN', 'marcqq', 'mhxczsN.', 'mg cwsN', 'mP`c%s', '!arfqsKMS', ' aucqd^`', 'uksX^s9i', 'ma&cq KM', 'marcqvK', 'marcqo', 'marTq`K', 'me%fh~', '}a!cqf?', 'marcxiK', 'rarc"cQ', 'marcksK', '~[ruqsK', 'vgrcna', 'qarcq}K', 'mOqcms<', 'garSbqK', 'mcrcreGY|', 'm]`mqsK', 'ma$cns', 'garc%', 'mazcqh', 'h\\rjq%', 'mhr^n!V', 'marc^tG']
+'marcqsN' with 77.77777777777777% fitness/similarity
+'marcrsL' with 77.77777777777777% fitness/similarity
+
+Generation 53
+['marsqla&', 'mjk[aqM', 'marmqsW', 'marcqsN', '\\qnjqb', 'w^rUksN', 'maraqyN', 'gdrcq#I', 'bafb_yV', 'mltcqsN', 'da&cq', 'maruqsN', 'mdkYqsN', '\\arcqsN', 'zrr`isX', 'malcn', '\\_ucisN', 'mar`x\\', 'Zarfqb', '!arcqs', 'dabc`eF', 'mY!vqsN', 'marca~N&', 'ragcqs\\', 'marcy$]', '}frcrdL', '}a cwkA', 'ma`drsL', 'xarc#tQ', 'ma#crsL', 'marcrxL', 'marcr&O', 'mepcrsX', '{arcrsFq', 'mPwcum', 'marposL', 'ZarcgwEU', 'marcdsT?', 'mdrcrkL', 'm_zccsDL', 'marUrdL', '_aycrvL', 'ma czs', 'mf}crsL', 'marc~k', 'narchc', 'firvr4', 'ukrcasL', 'yarmrs:', 'mdrc_sQc']
+'marcqsN' with 77.77777777777777% fitness/similarity
+'marcdsT?' with 72.22222222222223% fitness/similarity
+
+Generation 54
+['mSrca"N', 'm\\rc sJ6', '\\arrq}Nn', 'mi!nqsY', 'rN`cssN', 'marcqsN', 'ha&eqsN', 'ma|YqsN7^', 'dRrVgtN', 'maacduN', 'malk#sG', 'ZNrYqeN<', 'm__XqsN', 'marlqaN', 'mU`cqsN', 'xarv`sNY', 'ma `diN~', 'mrdcqsN>', 'aVrces', 'mUrcqeN', 'm\\ugqs', 'mar_q', '!arkvsN', 'pamc%sN', 'mXucqr', 'mrrc\\sT2', "marcd'Y1", 'mb$Up', 'markv$T?\\', 'vYrtdlG?%', 'mardW~T', 'marpc&MC', 'marcdyT', 'pa"c`sN2', '|arm\\sT?', 'marcdsT', 'mmncdsC?', 'mPrcclM2', 'miwidsTO', 'mNrcd~]L', 'marclsT?h,', 'mamPd`bG', 'iTrcdsT?', 'harcdnT?', 'm^cRv}`:', 'marcusT?', 'uarcucN?\\', 'marcdsF?', '{arWdsTN', 'm`scRsT?<']
+'marcusT?' with 88.88888888888889% fitness/similarity
+'marcqsN' with 77.77777777777777% fitness/similarity
+
+Generation 55
+['gfxtusT?', 'parqus\\?', 'qamhcvT?', 'marpufTH', 'mVf[usT?', 'varVusT1', 'marcxsT', ']`rcusT?', 'harctsS?', 'mPrcus_?', 'malcusTMp', 'nareusF6', 'mercutT4', 'karofsH?', 'uarcuk', 'm^{cus[H', 'z\\}cujT?', 'marcusT?', 'mab`uzTH', "mprc&'T??", '}XrcisT?', 'marclsT?', 'mP%TuzT', '{arZus[', 'marausT?9', 'mfrcijN', 'na!lqsN', 'ma~cqiL', '~arcqsN', 'margq%N', 'marcqs>t<', 'mari zNK+', 'xar^qs', 'marcqsG', 'iarcq{:o', 'barcxsN', 'marcqg', 'mZrQq:u', 'mprch%Po', 'marnksI', 'maic}s`', 'marPqsN', 'marcqsN', 'oYrcq}P\\', '\\arcjsN', 'marc}sN2', 'mqrcjs', 'ms|c}s', '{SrcqdN@', 'dara^{N']
+'marcusT?' with 88.88888888888889% fitness/similarity
+'marcxsT' with 77.77777777777777% fitness/similarity
+
+Generation 56
+['^eacusX?', 'mn r sT,', 'm^rcu"T', '|aicu}T;', 'iarcbs^', 'mOycuse', 'lajcusX?', 'pZfcdsT?', 'marcusT.', 'marclsT?', 'qmikusT?', 'marUusT', '`arcwsM?', 'larcusTG', 'ma$cusTR%', 'msrclgT', 'mUrcusT.', 'mtrbujM?', 'marcuoT?', 'ma`gusL?', 'iarcjs', 'y]y_|oT3', 'majcusT?e', 'eascusT8', 'marixsP?', 'marZ,sT', 'maoQfvQN', 'marcesTW', 'maacosT', 'iaraxsc', 'qardksa', 'maqc#sT', 'tawc%sT', '_arcxgT', '_Su^gbT', 'marWxqT', 'z_rcxs', 'garbpsfR C', '~orcxsT', 'marcz~V', 'm_rZx%T', '[akctvT/', 'marc*', 'm[rets\\', 'mar^%}T', 'iarc+oT', 'ma!cwnTQ.', 'ma~c(', 'marc}s', 'matcksT_']
+'marcusT.' with 88.88888888888889% fitness/similarity
+'marc}s' with 83.33333333333333% fitness/similarity
+
+Generation 57
+['marcurT', 'marcusT2', 'mNrousH#', 'mrz^usT.', '_arfuwG{', 'mXrcpsTz', 'marcujT.', 'mPrkhsf3', 'narcxsT.;', '`arc%sT', 'mh~cusT.', ']a$cueX8', 'far_uaT}', 'mZ&cnsE.;', 'mggcxsT?', 'maxcysT', 'mQ"cusT', 'mVrcusE', 'mqrcusT', 'ads`usT.', 'marcubT', 'ma}c}sT.y', 'larjusTY', "gQrc'}d.", '~arn%sT.', 'marc}y', 'varc$a:', 'marlzs', 'marc}', 'mgrc}s', 'paru$s', 'tarc}s', 'hlrc}s', 'marc}s', 'm\\rR', 'ebrc}sC', 'jarc}k', "qRhQ}'", 'marc}f', 'marn}', 'msqcww', 'smxc', 'galc}x', 'marb}a', 'ma#c{s', 'uYri}sK', '{arjus', 'Z^oSrs', 'marc}sL', 'maoc}s']
+'marcusT2' with 88.88888888888889% fitness/similarity
+'marc}s' with 83.33333333333333% fitness/similarity
+
+Generation 58
+['}a ]tsN', 'jlrpvsT2', 'm`rcssT)', '`arcbsf-', 'maccurO2L', 'mar](sW)', 'qZ{vusT', 'varTusb2', 'c^$c)pT2', 'fXrcus', 'masTusT(-', 'xarbusP2', 'marc#mY2', 'marcusC ', 'nkrccsK2:', 'mavWywT<z', '[arc!!eR', '{a!cusI#', 'mtrcubT2', 'marQ"oT2$', 'm]rcuq\\~', 'favcssT)', 'qahcuyT2', '{arcuzD2', 'mkecfsT#', 'ma&c#c', 'majc}s', 'tnrc', 'marc sTG', 'marm}x.e', 'rarcu', 'magU}', 'dXrR}s+$', 'marf', 'marb%%', ']b_kws;', 'm`rc&sbQ', 'iQr_ls', 'ga#c}o~', 'marc}s', 'zarc*s', 'eQbc}', '~a%r$<', 'mQ~c}sc+', 'm]wck"|', 'majc$', 'marc}s', 'carZ}', 'marq}', 'harc}s']
+'marcusC ' with 88.88888888888889% fitness/similarity
+'marc}s' with 83.33333333333333% fitness/similarity
+
+Generation 59
+['ta&Uus< b', 'marcfsNl:', 'mab_u{C[/', 'akrc{sC"', '_azUjs63', 'mafcus7-', 'mareusC', 'uYkcksS', 'marQu}Hw', 'marcusC|', 'mnzcusS ', 'bar_usC $', 'mStcu~Cp', 'msrc|sC ', 'ma}cssC ', 'marcu!:?', '[^solaC ', 'mYrcusC ', 'marjusU ', 'mmrcssCy', 'mawcu}', '|arvus>5', ']mrcuwC 0', 'marcssC {', 'maqauxN ', 'mOrm}%d', 'mTrc}s', 'marY0m', 'mXgc} ', 'mSrcru', 'za&Q-s', 'mcrcus', 'maic{s', 'marR}s', 'marc}vs', 'm`rQ}s', 'canv}s', 'd_ncvy', 'd_rd}d', 'jh{j*h:;', 'marcvs', '|t`d}s', 'mgrcn ', 'tarck', 'mctck', 'carcxs', 'marc}s', 'madc}s', 'p[ru}s', 'Zaff z']
+'marcusC|' with 88.88888888888889% fitness/similarity
+'mcrcus' with 83.33333333333333% fitness/similarity
+
+Generation 60
+['zarquuA$', '|arcusC|', 'msrcusC|', 'm`rcuo2', '[a|RugC|', 'farcuyCqa', 'mQrcvsC_', 'mafnucCo', 'bkucgsC|', 'mrrcusC|', '`q cusL|Q', 'oar`}sD|', 'iarcosCt', 'qXrcssC|', 'm[rcurC|', 'm`rcusV', 'matc"s7v', '!arcusC)', 'ssrqpsC', 'kprcoe1|', 'm[rcus3', 'marVdhG|', 'm_~cjsC|', 'mTrcusC', 'moycqaCo', 'mcra(sQ', 'morcus', "mczc'I", 'lchuus', 'dcrcus', 'mclcus', 'gcraus', 'mcrcu', 'mclXpsj', 'mcrQns', 'mQrcus1', 'mcrc', '{crcup', 'mckcuj', 'mcrWus', 'mfecus', 'mPru">', '{czcu', 'f`elus', 'jcrrus', 'acrcus', 'mcrqur', 'm]rcus', 'mVnhuk', 'mUrcu']
+'morcus' with 83.33333333333333% fitness/similarity
+'m]rcus' with 83.33333333333333% fitness/similarity
+
+Generation 61
+['mork{s', 'horcus', '}oru%$', 'mo&Yes=', 'morcps', '~ouc|c', 'tnicu%', 'mdrpu"', 'mqrc~', 'mo#cus', 'mo{cus', 'mlfc s', 'marcus', 'mxrPus', 'm{mcus', 'mxr]}`', 'mo%cus', 'y]qXus', 'm^rfms', 'mo|cusf', 'mdrcuc', 'hrrcnc', 'm]rZus', 'jjrcu|', 'morT#s', '}]rc&', 'r]vcuzk', 'u]rc%r', 'kRl]us', '[Qdcus', 'mcecus', 'qprcu', "vnjc'#", 'k]uc}sc', 'mozces', 'm]rcu', 'mXrcts', 'eOrc{s', 'm]f', 'a]drus', 'wi Sgs', 'mSrcusy', 'm]rcfs', '_]rcvs', 'marcul2', 'm]m[uo', 'mUrcu', '~]rScu', 'm]ucu', 'xirbus']
+'marcus' with 100.0% fitness/similarity
+'mSrcusy' with 77.77777777777777% fitness/similarity

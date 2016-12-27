@@ -1,0 +1,309 @@
+>>> cProfile.run('run()')
+Welcome to Alphadraft Simulator, by Marcus Chiam!
+What is the filename? NA LCS W7D1
+Here are the available teams:
+IMT
+C9
+TSM
+NRG
+TL
+FOX
+CLG
+TIP
+DIG
+RNG
+What are the teams that you want to draft? If you want to draft all teams, press Enter. Otherwise, enter the teams you want to draft with a space inbetween each one. 
+How many drafts would you like to see (maximum 10)? 10
+Data compiled
+Eligible teams determined
+All players sorted
+1.0% combinations processed
+2.0% combinations processed
+3.0% combinations processed
+4.0% combinations processed
+5.0% combinations processed
+6.0% combinations processed
+7.0% combinations processed
+8.0% combinations processed
+9.0% combinations processed
+10.0% combinations processed
+11.0% combinations processed
+12.0% combinations processed
+13.0% combinations processed
+14.0% combinations processed
+15.0% combinations processed
+16.0% combinations processed
+17.0% combinations processed
+18.0% combinations processed
+19.0% combinations processed
+20.0% combinations processed
+21.0% combinations processed
+22.0% combinations processed
+23.0% combinations processed
+24.0% combinations processed
+25.0% combinations processed
+26.0% combinations processed
+27.0% combinations processed
+28.0% combinations processed
+29.0% combinations processed
+30.0% combinations processed
+31.0% combinations processed
+32.0% combinations processed
+33.0% combinations processed
+34.0% combinations processed
+35.0% combinations processed
+36.0% combinations processed
+37.0% combinations processed
+38.0% combinations processed
+39.0% combinations processed
+40.0% combinations processed
+41.0% combinations processed
+42.0% combinations processed
+43.0% combinations processed
+44.0% combinations processed
+45.0% combinations processed
+46.0% combinations processed
+47.0% combinations processed
+48.0% combinations processed
+49.0% combinations processed
+50.0% combinations processed
+51.0% combinations processed
+52.0% combinations processed
+53.0% combinations processed
+54.0% combinations processed
+55.0% combinations processed
+56.0% combinations processed
+57.0% combinations processed
+58.0% combinations processed
+59.0% combinations processed
+60.0% combinations processed
+61.0% combinations processed
+62.0% combinations processed
+63.0% combinations processed
+64.0% combinations processed
+65.0% combinations processed
+66.0% combinations processed
+67.0% combinations processed
+68.0% combinations processed
+69.0% combinations processed
+70.0% combinations processed
+71.0% combinations processed
+72.0% combinations processed
+73.0% combinations processed
+74.0% combinations processed
+75.0% combinations processed
+76.0% combinations processed
+77.0% combinations processed
+78.0% combinations processed
+79.0% combinations processed
+80.0% combinations processed
+81.0% combinations processed
+82.0% combinations processed
+83.0% combinations processed
+84.0% combinations processed
+85.0% combinations processed
+86.0% combinations processed
+87.0% combinations processed
+88.0% combinations processed
+89.0% combinations processed
+90.0% combinations processed
+91.0% combinations processed
+92.0% combinations processed
+93.0% combinations processed
+94.0% combinations processed
+95.0% combinations processed
+96.0% combinations processed
+97.0% combinations processed
+98.0% combinations processed
+99.0% combinations processed
+100.0% combinations processed
+Now sorting...
+Function complete
+
+Huni, TOP, IMT, 22.1 points, $8100
+Reignover, JNG, IMT, 25.4 points, $8200
+Shiphtur, MID, DIG, 17.5 points, $7400
+Piglet, ADC, TL, 23.0 points, $8000
+Adrian, SUP, IMT, 21.8 points, $7700
+Apollo, ADC, DIG, 15.9 points, $7000
+
+CLG, 12.0 points, $3500
+$100 remaining salary
+137.7 total points
+
+Huni, TOP, IMT, 22.1 points, $8100
+Reignover, JNG, IMT, 25.4 points, $8200
+FeniX, MID, TL, 20.6 points, $7700
+Piglet, ADC, TL, 23.0 points, $8000
+Adrian, SUP, IMT, 21.8 points, $7700
+KiWiKiD, SUP, DIG, 12.3 points, $6600
+
+CLG, 12.0 points, $3500
+$200 remaining salary
+137.2 total points
+
+Huni, TOP, IMT, 22.1 points, $8100
+Reignover, JNG, IMT, 25.4 points, $8200
+FeniX, MID, TL, 20.6 points, $7700
+Piglet, ADC, TL, 23.0 points, $8000
+Adrian, SUP, IMT, 21.8 points, $7700
+Kirei, JNG, DIG, 12.2 points, $6800
+
+CLG, 12.0 points, $3500
+$0 remaining salary
+137.1 total points
+
+Huni, TOP, IMT, 22.1 points, $8100
+Reignover, JNG, IMT, 25.4 points, $8200
+FeniX, MID, TL, 20.6 points, $7700
+Apollo, ADC, DIG, 15.9 points, $7000
+Adrian, SUP, IMT, 21.8 points, $7700
+Dardoch, JNG, TL, 19.2 points, $7800
+
+CLG, 12.0 points, $3500
+$0 remaining salary
+137.0 total points
+
+Lourlo, TOP, TL, 16.0 points, $7400
+Reignover, JNG, IMT, 25.4 points, $8200
+FeniX, MID, TL, 20.6 points, $7700
+Piglet, ADC, TL, 23.0 points, $8000
+Adrian, SUP, IMT, 21.8 points, $7700
+Apollo, ADC, DIG, 15.9 points, $7000
+
+IMT, 14.2 points, $3900
+$100 remaining salary
+136.9 total points
+
+Huni, TOP, IMT, 22.1 points, $8100
+Reignover, JNG, IMT, 25.4 points, $8200
+FeniX, MID, TL, 20.6 points, $7700
+Piglet, ADC, TL, 23.0 points, $8000
+Adrian, SUP, IMT, 21.8 points, $7700
+Billyboss, TOP, DIG, 12.0 points, $6800
+
+CLG, 12.0 points, $3500
+$0 remaining salary
+136.89999999999998 total points
+
+Huni, TOP, IMT, 22.1 points, $8100
+Reignover, JNG, IMT, 25.4 points, $8200
+FeniX, MID, TL, 20.6 points, $7700
+Apollo, ADC, DIG, 15.9 points, $7000
+Adrian, SUP, IMT, 21.8 points, $7700
+Piglet, ADC, TL, 23.0 points, $8000
+
+DIG, 8.0 points, $3200
+$100 remaining salary
+136.8 total points
+
+Huni, TOP, IMT, 22.1 points, $8100
+Reignover, JNG, IMT, 25.4 points, $8200
+FeniX, MID, TL, 20.6 points, $7700
+Piglet, ADC, TL, 23.0 points, $8000
+Adrian, SUP, IMT, 21.8 points, $7700
+Apollo, ADC, DIG, 15.9 points, $7000
+
+DIG, 8.0 points, $3200
+$100 remaining salary
+136.79999999999998 total points
+
+Huni, TOP, IMT, 22.1 points, $8100
+Reignover, JNG, IMT, 25.4 points, $8200
+FeniX, MID, TL, 20.6 points, $7700
+Apollo, ADC, DIG, 15.9 points, $7000
+Adrian, SUP, IMT, 21.8 points, $7700
+Piglet, ADC, TL, 23.0 points, $8000
+
+TIP, 7.9 points, $3300
+$0 remaining salary
+136.70000000000002 total points
+
+Huni, TOP, IMT, 22.1 points, $8100
+Reignover, JNG, IMT, 25.4 points, $8200
+FeniX, MID, TL, 20.6 points, $7700
+Piglet, ADC, TL, 23.0 points, $8000
+Adrian, SUP, IMT, 21.8 points, $7700
+Apollo, ADC, DIG, 15.9 points, $7000
+
+TIP, 7.9 points, $3300
+$0 remaining salary
+136.7 total points
+
+         1818130550 function calls (1818130480 primitive calls) in 1311.869 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.047    0.047 1311.829 1311.829 <string>:1(<module>)
+      257    0.003    0.000    3.155    0.012 PyShell.py:1339(write)
+        3    0.000    0.000    7.632    2.544 PyShell.py:1382(readline)
+        2    0.000    0.000    0.000    0.000 _bootlocale.py:11(getpreferredencoding)
+ 87011386  215.487    0.000  215.487    0.000 alphadraftv2.py:127(__init__)
+       10    0.015    0.002    0.048    0.005 alphadraftv2.py:137(__str__)
+370112834   68.276    0.000   68.276    0.000 alphadraftv2.py:141(__lt__)
+ 37011385    6.908    0.000    6.908    0.000 alphadraftv2.py:143(__gt__)
+ 50000000   70.248    0.000  541.489    0.000 alphadraftv2.py:145(is_eligible)
+ 37689366  420.468    0.000  471.241    0.000 alphadraftv2.py:160(three_or_less)
+        1  264.992  264.992 1230.386 1230.386 alphadraftv2.py:192(start_draft)
+      100    0.000    0.000    0.000    0.000 alphadraftv2.py:23(__init__)
+       60    0.000    0.000    0.000    0.000 alphadraftv2.py:27(__str__)
+ 37011385  112.859    0.000  112.859    0.000 alphadraftv2.py:272(not_in_list)
+        1   73.487   73.487 1311.782 1311.782 alphadraftv2.py:337(run)
+       20    0.000    0.000    0.000    0.000 alphadraftv2.py:39(__init__)
+       10    0.000    0.000    0.000    0.000 alphadraftv2.py:48(__str__)
+        2    0.001    0.001    0.002    0.001 alphadraftv2.py:52(compile_data)
+      120    0.000    0.000    0.000    0.000 alphadraftv2.py:7(__init__)
+        2    0.000    0.000    0.000    0.000 codecs.py:257(__init__)
+        2    0.000    0.000    0.000    0.000 codecs.py:278(getstate)
+        2    0.000    0.000    0.000    0.000 cp1252.py:22(decode)
+     1820    0.000    0.000    0.000    0.000 rpc.py:150(debug)
+      260    0.001    0.000   10.782    0.041 rpc.py:213(remotecall)
+      260    0.003    0.000    0.096    0.000 rpc.py:223(asynccall)
+      260    0.039    0.000   10.685    0.041 rpc.py:243(asyncreturn)
+      260    0.000    0.000    0.000    0.000 rpc.py:249(decoderesponse)
+      260    0.001    0.000   10.646    0.041 rpc.py:287(getresponse)
+      260    0.001    0.000    0.001    0.000 rpc.py:295(_proxify)
+      260    0.008    0.000   10.644    0.041 rpc.py:303(_getresponse)
+      260    0.001    0.000    0.001    0.000 rpc.py:325(newseq)
+      260    0.029    0.000    0.089    0.000 rpc.py:329(putmessage)
+      260    0.001    0.000    0.002    0.000 rpc.py:554(__getattr__)
+      260    0.004    0.000    0.048    0.000 rpc.py:57(dumps)
+      260    0.000    0.000    0.000    0.000 rpc.py:595(__init__)
+      260    0.000    0.000   10.782    0.041 rpc.py:600(__call__)
+      520    0.001    0.000    0.001    0.000 threading.py:1230(current_thread)
+      260    0.002    0.000    0.003    0.000 threading.py:210(__init__)
+      260    0.002    0.000   10.635    0.041 threading.py:258(wait)
+      260    0.001    0.000    0.001    0.000 threading.py:75(RLock)
+        2    0.000    0.000    0.000    0.000 {built-in method _getdefaultlocale}
+      260    0.001    0.000    0.001    0.000 {built-in method allocate_lock}
+        2    0.000    0.000    0.000    0.000 {built-in method charmap_decode}
+        1    0.040    0.040 1311.869 1311.869 {built-in method exec}
+      520    0.000    0.000    0.000    0.000 {built-in method get_ident}
+        3    0.000    0.000    7.637    2.546 {built-in method input}
+      523    0.001    0.000    0.001    0.000 {built-in method isinstance}
+634617358   26.964    0.000   26.964    0.000 {built-in method len}
+        2    0.000    0.000    0.000    0.000 {built-in method open}
+      260    0.000    0.000    0.000    0.000 {built-in method pack}
+      127    0.002    0.000    3.200    0.025 {built-in method print}
+      260    0.003    0.000    0.003    0.000 {built-in method select}
+      260    0.000    0.000    0.000    0.000 {method '_acquire_restore' of '_thread.RLock' objects}
+      260    0.000    0.000    0.000    0.000 {method '_is_owned' of '_thread.RLock' objects}
+      260    0.000    0.000    0.000    0.000 {method '_release_save' of '_thread.RLock' objects}
+      260    0.000    0.000    0.000    0.000 {method 'acquire' of '_thread.RLock' objects}
+      520   10.632    0.020   10.632    0.020 {method 'acquire' of '_thread.lock' objects}
+      260    0.000    0.000    0.000    0.000 {method 'append' of 'collections.deque' objects}
+564662732   41.223    0.000   41.223    0.000 {method 'append' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+      260    0.024    0.000    0.024    0.000 {method 'dump' of '_pickle.Pickler' objects}
+        3    0.000    0.000    0.000    0.000 {method 'find' of 'str' objects}
+  180/110    0.062    0.000    0.062    0.001 {method 'format' of 'str' objects}
+      260    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+      260    0.021    0.000    0.021    0.000 {method 'getvalue' of '_io.BytesIO' objects}
+       98    0.000    0.000    0.000    0.000 {method 'insert' of 'list' objects}
+       90    0.000    0.000    0.000    0.000 {method 'pop' of 'list' objects}
+     1200    0.000    0.000    0.000    0.000 {method 'readline' of '_io.TextIOWrapper' objects}
+      260    0.000    0.000    0.000    0.000 {method 'release' of '_thread.RLock' objects}
+      260    0.008    0.000    0.008    0.000 {method 'send' of '_socket.socket' objects}
+      101    0.000    0.000    0.000    0.000 {method 'split' of 'str' objects}
+      258    0.000    0.000    0.000    0.000 {method 'strip' of 'str' objects}

@@ -1,0 +1,158 @@
+Welcome to Alphadraft Simulator, by Marcus Chiam!
+What is the filename? LPL W5D3
+Here are the available teams:
+EDG
+M3
+VG
+WE
+Snake
+HYG
+What are the teams that you want to draft? If you want to draft all teams, press Enter. Otherwise, enter the teams you want to draft with a space inbetween each one. EDG M3 VG WE
+How many drafts would you like to see? 5
+Data compiled
+Eligible teams determined
+All players sorted
+6.25% combinations processed
+12.5% combinations processed
+18.75% combinations processed
+25.0% combinations processed
+31.25% combinations processed
+37.5% combinations processed
+43.75% combinations processed
+50.0% combinations processed
+56.25% combinations processed
+62.5% combinations processed
+68.75% combinations processed
+75.0% combinations processed
+81.25% combinations processed
+87.5% combinations processed
+93.75% combinations processed
+100.0% combinations processed
+Koro1, TOP, EDG, 18.6 points, $7600
+Clearlove / Fireloli, JNG, EDG, 20.8 points, $8200
+PawN / Athena, MID, EDG, 21.7 points, $7900
+PentaQ, ADC, M3, 12.0 points, $7400
+Savoki / lovecd, SUP, M3, 9.7 points, $7000
+xy, TOP, M3, 9.0 points, $6900
+
+VG, 7.6 points, $3500
+$1500 remaining salary
+99.4 total points
+
+Koro1, TOP, EDG, 18.6 points, $7600
+Clearlove / Fireloli, JNG, EDG, 20.8 points, $8200
+PawN / Athena, MID, EDG, 21.7 points, $7900
+PentaQ, ADC, M3, 12.0 points, $7400
+Savoki / lovecd, SUP, M3, 9.7 points, $7000
+xy, TOP, M3, 9.0 points, $6900
+
+WE, 10.7 points, $3500
+$1500 remaining salary
+102.50000000000001 total points
+
+Koro1, TOP, EDG, 18.6 points, $7600
+Clearlove / Fireloli, JNG, EDG, 20.8 points, $8200
+PawN / Athena, MID, EDG, 21.7 points, $7900
+PentaQ, ADC, M3, 12.0 points, $7400
+Savoki / lovecd, SUP, M3, 9.7 points, $7000
+Yolo / Scenery, JNG, M3, 12.1 points, $7100
+
+VG, 7.6 points, $3500
+$1300 remaining salary
+102.5 total points
+
+Koro1, TOP, EDG, 18.6 points, $7600
+Clearlove / Fireloli, JNG, EDG, 20.8 points, $8200
+PawN / Athena, MID, EDG, 21.7 points, $7900
+PentaQ, ADC, M3, 12.0 points, $7400
+Savoki / lovecd, SUP, M3, 9.7 points, $7000
+Yolo / Scenery, JNG, M3, 12.1 points, $7100
+
+WE, 10.7 points, $3500
+$1300 remaining salary
+105.60000000000001 total points
+
+Koro1, TOP, EDG, 18.6 points, $7600
+Clearlove / Fireloli, JNG, EDG, 20.8 points, $8200
+PawN / Athena, MID, EDG, 21.7 points, $7900
+PentaQ, ADC, M3, 12.0 points, $7400
+Savoki / lovecd, SUP, M3, 9.7 points, $7000
+Raphael, MID, M3, 9.8 points, $7300
+
+VG, 7.6 points, $3500
+$1100 remaining salary
+100.2 total points
+
+         1670124 function calls (1670089 primitive calls) in 13.931 seconds
+
+   Ordered by: standard name
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   13.930   13.930 <string>:1(<module>)
+       67    0.001    0.000    0.630    0.009 PyShell.py:1339(write)
+        3    0.000    0.000   12.183    4.061 PyShell.py:1382(readline)
+        2    0.000    0.000    0.000    0.000 _bootlocale.py:11(getpreferredencoding)
+   128720    0.210    0.000    0.210    0.000 alphadraft.py:127(__init__)
+        5    0.000    0.000    0.000    0.000 alphadraft.py:137(__str__)
+    81920    0.104    0.000    0.807    0.000 alphadraft.py:145(is_eligible)
+    61212    0.628    0.000    0.703    0.000 alphadraft.py:160(three_or_less)
+        1    0.087    0.087    1.655    1.655 alphadraft.py:192(start_draft)
+       60    0.000    0.000    0.000    0.000 alphadraft.py:23(__init__)
+       30    0.000    0.000    0.000    0.000 alphadraft.py:27(__str__)
+        1    0.008    0.008   13.930   13.930 alphadraft.py:299(run)
+       12    0.000    0.000    0.000    0.000 alphadraft.py:39(__init__)
+        5    0.000    0.000    0.000    0.000 alphadraft.py:48(__str__)
+        2    0.001    0.000    0.001    0.001 alphadraft.py:52(compile_data)
+       72    0.000    0.000    0.000    0.000 alphadraft.py:7(__init__)
+        2    0.000    0.000    0.000    0.000 codecs.py:257(__init__)
+        2    0.000    0.000    0.000    0.000 codecs.py:278(getstate)
+        2    0.000    0.000    0.000    0.000 cp1252.py:22(decode)
+      497    0.000    0.000    0.000    0.000 rpc.py:150(debug)
+       71    0.000    0.000   12.812    0.180 rpc.py:213(remotecall)
+       71    0.000    0.000    0.005    0.000 rpc.py:223(asynccall)
+       71    0.000    0.000   12.807    0.180 rpc.py:243(asyncreturn)
+       71    0.000    0.000    0.000    0.000 rpc.py:249(decoderesponse)
+       71    0.000    0.000   12.807    0.180 rpc.py:287(getresponse)
+       71    0.000    0.000    0.000    0.000 rpc.py:295(_proxify)
+       71    0.001    0.000   12.806    0.180 rpc.py:303(_getresponse)
+       71    0.000    0.000    0.000    0.000 rpc.py:325(newseq)
+       71    0.001    0.000    0.004    0.000 rpc.py:329(putmessage)
+       70    0.000    0.000    0.045    0.001 rpc.py:554(__getattr__)
+       71    0.000    0.000    0.001    0.000 rpc.py:57(dumps)
+        1    0.000    0.000    0.045    0.045 rpc.py:572(__getmethods)
+       70    0.000    0.000    0.000    0.000 rpc.py:595(__init__)
+       70    0.000    0.000   12.767    0.182 rpc.py:600(__call__)
+      142    0.000    0.000    0.000    0.000 threading.py:1230(current_thread)
+       71    0.000    0.000    0.001    0.000 threading.py:210(__init__)
+       71    0.000    0.000   12.805    0.180 threading.py:258(wait)
+       71    0.000    0.000    0.000    0.000 threading.py:75(RLock)
+        2    0.000    0.000    0.000    0.000 {built-in method _getdefaultlocale}
+       71    0.000    0.000    0.000    0.000 {built-in method allocate_lock}
+        2    0.000    0.000    0.000    0.000 {built-in method charmap_decode}
+        1    0.000    0.000   13.931   13.931 {built-in method exec}
+      142    0.000    0.000    0.000    0.000 {built-in method get_ident}
+        3    0.000    0.000   12.188    4.063 {built-in method input}
+      145    0.000    0.000    0.000    0.000 {built-in method isinstance}
+   489928    0.020    0.000    0.020    0.000 {built-in method len}
+        2    0.000    0.000    0.000    0.000 {built-in method open}
+       71    0.000    0.000    0.000    0.000 {built-in method pack}
+       32    0.000    0.000    0.626    0.020 {built-in method print}
+       71    0.001    0.000    0.001    0.000 {built-in method select}
+       71    0.000    0.000    0.000    0.000 {method '_acquire_restore' of '_thread.RLock' objects}
+       71    0.000    0.000    0.000    0.000 {method '_is_owned' of '_thread.RLock' objects}
+       71    0.000    0.000    0.000    0.000 {method '_release_save' of '_thread.RLock' objects}
+       71    0.000    0.000    0.000    0.000 {method 'acquire' of '_thread.RLock' objects}
+      142   12.804    0.090   12.804    0.090 {method 'acquire' of '_thread.lock' objects}
+       71    0.000    0.000    0.000    0.000 {method 'append' of 'collections.deque' objects}
+   903884    0.059    0.000    0.059    0.000 {method 'append' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+       71    0.000    0.000    0.000    0.000 {method 'dump' of '_pickle.Pickler' objects}
+        3    0.000    0.000    0.000    0.000 {method 'find' of 'str' objects}
+    56/21    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       70    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+       71    0.000    0.000    0.000    0.000 {method 'getvalue' of '_io.BytesIO' objects}
+      736    0.000    0.000    0.000    0.000 {method 'readline' of '_io.TextIOWrapper' objects}
+       71    0.000    0.000    0.000    0.000 {method 'release' of '_thread.RLock' objects}
+       71    0.002    0.000    0.002    0.000 {method 'send' of '_socket.socket' objects}
+       61    0.000    0.000    0.000    0.000 {method 'split' of 'str' objects}
+      170    0.000    0.000    0.000    0.000 {method 'strip' of 'str' objects}

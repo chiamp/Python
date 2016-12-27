@@ -1,0 +1,580 @@
+MID
+
+Perkz
+G2 vs EL Thu 12:00PM
+5.8
+KDA
+24.4
+FPPG
+$8,600
+Salary
+ADC
+
+FORG1VEN
+H2k vs FNC Thu 2:00PM
+7.9
+KDA
+22.6
+FPPG
+$8,600
+Salary
+ADC
+
+Emperor
+G2 vs EL Thu 12:00PM
+4.7
+KDA
+23
+FPPG
+$8,500
+Salary
+MID
+
+Ryu / Selfie
+H2k vs FNC Thu 2:00PM
+5
+KDA
+22.8
+FPPG
+$8,500
+Salary
+TOP
+
+Odoamne
+H2k vs FNC Thu 2:00PM
+5.1
+KDA
+22.1
+FPPG
+$8,400
+Salary
+JNG
+
+Trick
+G2 vs EL Thu 12:00PM
+5.8
+KDA
+23.7
+FPPG
+$8,300
+Salary
+ADC
+
+Steeelback
+UOL vs ROC Thu 4:00PM
+7.3
+KDA
+23.9
+FPPG
+$8,200
+Salary
+MID
+
+Fox
+UOL vs ROC Thu 4:00PM
+4.6
+KDA
+23.1
+FPPG
+$8,200
+Salary
+TOP
+
+Kikis
+G2 vs EL Thu 12:00PM
+4.3
+KDA
+20.2
+FPPG
+$8,200
+Salary
+JNG
+
+Jankos
+H2k vs FNC Thu 2:00PM
+4.8
+KDA
+21.1
+FPPG
+$8,200
+Salary
+TOP
+
+Cabochard
+VIT vs GIA Thu 1:00PM
+5.6
+KDA
+19.4
+FPPG
+$8,100
+Salary
+ADC
+
+Zven
+OG vs SPL Thu 3:00PM
+3.3
+KDA
+18
+FPPG
+$8,000
+Salary
+MID
+
+Nukeduck
+VIT vs GIA Thu 1:00PM
+4.6
+KDA
+16.7
+FPPG
+$8,000
+Salary
+ADC
+
+Rekkles
+FNC vs H2k Thu 2:00PM
+3.9
+KDA
+18.5
+FPPG
+$7,900
+Salary
+TOP
+
+Vizicsacsi
+UOL vs ROC Thu 4:00PM
+3.5
+KDA
+20.2
+FPPG
+$7,900
+Salary
+ADC
+
+Hjarnan
+VIT vs GIA Thu 1:00PM
+4.5
+KDA
+17.5
+FPPG
+$7,900
+Salary
+ADC
+
+Kobbe
+SPL vs OG Thu 3:00PM
+4.1
+KDA
+14.5
+FPPG
+$7,800
+Salary
+JNG
+
+Rudy / Diamondprox
+UOL vs ROC Thu 4:00PM
+3.8
+KDA
+19.1
+FPPG
+$7,800
+Salary
+SUP
+
+Hybrid
+G2 vs EL Thu 12:00PM
+7.1
+KDA
+19.3
+FPPG
+$7,800
+Salary
+SUP
+
+VandeR
+H2k vs FNC Thu 2:00PM
+6.6
+KDA
+18.8
+FPPG
+$7,800
+Salary
+MID
+
+Febiven
+FNC vs H2k Thu 2:00PM
+4.7
+KDA
+18.3
+FPPG
+$7,800
+Salary
+MID
+
+Sencux
+SPL vs OG Thu 3:00PM
+4.4
+KDA
+15.3
+FPPG
+$7,700
+Salary
+JNG
+
+Shook
+VIT vs GIA Thu 1:00PM
+4.7
+KDA
+16.1
+FPPG
+$7,700
+Salary
+JNG
+
+Spirit
+FNC vs H2k Thu 2:00PM
+3.4
+KDA
+15.4
+FPPG
+$7,600
+Salary
+JNG
+
+Amazing
+OG vs SPL Thu 3:00PM
+3.3
+KDA
+14.6
+FPPG
+$7,600
+Salary
+SUP
+
+Hylissang
+UOL vs ROC Thu 4:00PM
+3.9
+KDA
+17.8
+FPPG
+$7,500
+Salary
+TOP
+
+Gamsu
+FNC vs H2k Thu 2:00PM
+3.3
+KDA
+17.3
+FPPG
+$7,500
+Salary
+MID
+
+PowerOfEvil
+OG vs SPL Thu 3:00PM
+3
+KDA
+14
+FPPG
+$7,500
+Salary
+MID
+
+Betsy
+ROC vs UOL Thu 4:00PM
+3.3
+KDA
+16.7
+FPPG
+$7,400
+Salary
+ADC
+
+MrRalleZ
+EL vs G2 Thu 12:00PM
+4.3
+KDA
+16.9
+FPPG
+$7,400
+Salary
+TOP
+
+sOAZ
+OG vs SPL Thu 3:00PM
+2.4
+KDA
+12.8
+FPPG
+$7,400
+Salary
+ADC
+
+Tabzz / Safir
+ROC vs UOL Thu 4:00PM
+2.4
+KDA
+12.7
+FPPG
+$7,300
+Salary
+SUP
+
+kaSing
+VIT vs GIA Thu 1:00PM
+5.1
+KDA
+14.2
+FPPG
+$7,300
+Salary
+JNG
+
+Trashy
+SPL vs OG Thu 3:00PM
+3.4
+KDA
+10.9
+FPPG
+$7,300
+Salary
+MID
+
+xPePii
+GIA vs VIT Thu 1:00PM
+2.2
+KDA
+12.2
+FPPG
+$7,300
+Salary
+ADC
+
+Adryh
+GIA vs VIT Thu 1:00PM
+2.1
+KDA
+11.3
+FPPG
+$7,200
+Salary
+TOP
+
+Wunderwear
+SPL vs OG Thu 3:00PM
+1.7
+KDA
+10.2
+FPPG
+$7,200
+Salary
+TOP
+
+Steve
+EL vs G2 Thu 12:00PM
+2.6
+KDA
+13.7
+FPPG
+$7,100
+Salary
+SUP
+
+Mithy
+OG vs SPL Thu 3:00PM
+3.6
+KDA
+12.6
+FPPG
+$7,100
+Salary
+SUP
+
+Nisbeth
+SPL vs OG Thu 3:00PM
+3.9
+KDA
+10.2
+FPPG
+$7,100
+Salary
+MID
+
+Eika
+EL vs G2 Thu 12:00PM
+2
+KDA
+12.5
+FPPG
+$7,000
+Salary
+SUP
+
+Klajbajk
+FNC vs H2k Thu 2:00PM
+2.7
+KDA
+12
+FPPG
+$6,900
+Salary
+JNG
+
+Airwaks
+ROC vs UOL Thu 4:00PM
+1.8
+KDA
+11.3
+FPPG
+$6,800
+Salary
+TOP
+
+Atom
+GIA vs VIT Thu 1:00PM
+1.4
+KDA
+9
+FPPG
+$6,800
+Salary
+JNG
+
+Gilius
+EL vs G2 Thu 12:00PM
+2.3
+KDA
+10.6
+FPPG
+$6,700
+Salary
+JNG
+
+betongJocke
+GIA vs VIT Thu 1:00PM
+1.5
+KDA
+8.6
+FPPG
+$6,700
+Salary
+TOP
+
+fredy122
+ROC vs UOL Thu 4:00PM
+2
+KDA
+11.1
+FPPG
+$6,700
+Salary
+SUP
+
+G0DFRED
+GIA vs VIT Thu 1:00PM
+2.5
+KDA
+7.6
+FPPG
+$6,600
+Salary
+SUP
+
+Edward / extinkt
+ROC vs UOL Thu 4:00PM
+2.1
+KDA
+9.3
+FPPG
+$6,500
+Salary
+SUP
+
+Sprattel
+EL vs G2 Thu 12:00PM
+2.2
+KDA
+9.4
+FPPG
+$6,400
+Salary
+TEAM
+VIT
+Vitality
+VIT vs GIA Thu 1:00PM
+14.7
+FPPG
+$3,900
+Salary
+TEAM
+G2
+G2 Esports
+G2 vs EL Thu 12:00PM
+13.5
+FPPG
+$3,800
+Salary
+TEAM
+UOL
+Unicorns of Love
+UOL vs ROC Thu 4:00PM
+14.5
+FPPG
+$3,700
+Salary
+TEAM
+H2k
+H2k Gaming
+H2k vs FNC Thu 2:00PM
+13.5
+FPPG
+$3,600
+Salary
+TEAM
+OG
+Origen
+OG vs SPL Thu 3:00PM
+11.4
+FPPG
+$3,500
+Salary
+TEAM
+FNC
+Fnatic
+FNC vs H2k Thu 2:00PM
+11.2
+FPPG
+$3,500
+Salary
+TEAM
+ROC
+ROCCAT
+ROC vs UOL Thu 4:00PM
+9.2
+FPPG
+$3,400
+Salary
+TEAM
+SPL
+Splyce
+SPL vs OG Thu 3:00PM
+7.2
+FPPG
+$3,300
+Salary
+TEAM
+EL
+Elements
+EL vs G2 Thu 12:00PM
+10.1
+FPPG
+$3,300
+Salary
+TEAM
+GIA
+Giants
+GIA vs VIT Thu 1:00PM
+6.1
+FPPG
+$3,200
+Salary

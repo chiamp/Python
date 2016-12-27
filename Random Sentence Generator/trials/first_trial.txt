@@ -1,0 +1,779 @@
+>>> run('marcus', 10, 40)
+['Pt]=y', 'Pc_Hy', 'PYOUx', 'Pc_:y', '`p_Hy', 'Pc_Gy,', 'PcdHy', 'Pc_Hj', 'Pc_Hw', 'PQ_HyH']
+Pc_Gy, was the highest scoring string, with a 0.08333333333333333% similarity to the goal string marcus
+['PonGg,', 'PkTGy=', 'Kc_8y-', 'TchGy', 'Cc\\My,', 'Pc_Jy,+', 'Es_Gy', 'P`_Gy,', 'PcZNs', '`olGy,']
+PcZNs was the highest scoring string, with a 0.125% similarity to the goal string marcus
+['PqZXs(N', '[cZ\\s6', 'GcZ>r', '^cYN', 'KcZNm', 'PcN<', 'PpkVs', 'PcZN', 'DcZAp', 'PcZN']
+[cZ\s6 was the highest scoring string, with a 0.16666666666666666% similarity to the goal string marcus
+['[cZWs6', 'cllYs6', 'jcm\\s:', 'hcZ\\s6\\', '[cZ\\s', '[cZ\\s', '[kZ\\', '[cZov', '[Xc\\~/', 'jnl\\sI[']
+jcm\s: was the highest scoring string, with a 0.25% similarity to the goal string marcus
+['jfm^s:', 'bce\\i8f', 'jcl\\sGc0', 'jvmfz:', '`cm\\v', 'jcbXs7mRt', 'j_m\\\x1e:', 'b`j', 'Yl]\\s:', 'jbb\\sB']
+jcm\s: was the highest scoring string, with a 0.25% similarity to the goal string marcus
+['Xcm\\s2', 'jcn\\`:', '^Rmox+', 'jTm\\ 4;', 'ocm\\s6', 'jcm\\t:', 'wcm\\s:', 'jcm\\v:', 'tcyNs/', 'wcm\\s:']
+jcm\s: was the highest scoring string, with a 0.25% similarity to the goal string marcus
+['jcm\\s:cix', 'jVm\\lIl', 'oco\\s+', '|cm\\a', 'jcm\\', 'Xcmgs:', 'jc \\s:A&', 'fcmUs:', 'jr ksp', '^nm\\g:u']
+jcm\s: was the highest scoring string, with a 0.25% similarity to the goal string marcus
+['svm\\s:N', 'jcm\\s', 'ucm]sC', 'j\\m\\s:a', '\\cmTsB', 'jcmbs:', '^_|\\s1', 'YcmOf:', 'jcmgs:', 'jcn\\{=']
+ucm]sC was the highest scoring string, with a 0.3333333333333333% similarity to the goal string marcus
+['uVm]y6{@A0', 'uci]\x1eC', 'oU_]\x1f', 'ucjfsC', ' c\x1fKsC`', 'ucjUsCA', 'ucm]r.', 'bchXkI', 'ucm]sC(', 'ucp]sH']
+ucm]sC was the highest scoring string, with a 0.3333333333333333% similarity to the goal string marcus
+['urm]sN', 'ycm]rEh\\', 'tcr`sC', 'uimji6', '\x1ac[]sn', 'uZsYyC', 'ucmY~C[', 'xcm]eC', 'uba]oC', 'u^nmsC7']
+ucm]sC was the highest scoring string, with a 0.3333333333333333% similarity to the goal string marcus
+['uvi]uC', 'dcm]tC', 'ucm]sC', 'ucm] ', 'ucd]y1', 'vcuosKB', 'ucm]sC', ' umNsC', 'ucm[\x19J', 'bdm]s']
+ucm]sC was the highest scoring string, with a 0.3333333333333333% similarity to the goal string marcus
+['u\\m]sC', '\x17c{\\sC', 'u]~]sFY', 'ucbgv>', 'uS]]oC', 'uj ]sM', 'uem]sC ', 'ucf]s', 'xbmbsC', 'ucmZsV']
+ucm]sC was the highest scoring string, with a 0.3333333333333333% similarity to the goal string marcus
+['ucsgsC', 'uom]sC4x', 'udwas', 'ucZnsF', 'u]e]k@', 'uhmQs@', 'ucjez1', 'ucmX`C', '{s ]q', 'ucm]kOx']
+ucm]sC was the highest scoring string, with a 0.3333333333333333% similarity to the goal string marcus
+['oSm]s=', 'rcs]s:', 'uc\\Qs@', 'hc~]~C', 'ucm]sC', 'jcd]sV', 'icmQl', 'jcm]sC', 'ucm_sG', 'uTm]sC']
+ucm]sC was the highest scoring string, with a 0.3333333333333333% similarity to the goal string marcus
+['ztm]s', 'ucmUsC', 'ucmVsC', 'ucmVsC', 'ucl]hC', 'uebVyM^', 'ucm]sC?l', 'uPmUB', 'uTm]|As', 'pcm]s']
+ucm]sC was the highest scoring string, with a 0.3333333333333333% similarity to the goal string marcus
+['\x1aVc]s<', 'uZs]kC', 'ucmmsP', 'j\\m]lM', 'tcmPsC', '\x1b`mWsC', 'ub\\]sC', 'ucpfsC', 'qcmds4', 'uvr]sC']
+ucm]sC was the highest scoring string, with a 0.3333333333333333% similarity to the goal string marcus
+['uc}]sC', 'uci^pC', 'uvm]sCh', 'fjm]s', '\x19f\\]gC', ' cw]`C', 'uum]sH', 'uc^]t', 'hcmNzC', 'ucmksC']
+ucm]sC was the highest scoring string, with a 0.3333333333333333% similarity to the goal string marcus
+['ucmin', 'rnj]\x1c', '|cm]sT', '\x18cmSsC', 'ucmJsC', '\x1fcm]sC', 'ucmJsC', '\x1dck]sC', 'ulm]`C', 'ucm]sC']
+ucm]sC was the highest scoring string, with a 0.3333333333333333% similarity to the goal string marcus
+[' sm]s/', 'ucm]sCJ', 'rim`sC', 'u[m]uD', 'uccksCb', 'ucmXcC', 'ucl]sC', 'ucm]\x197', ' VmbrR', 'u[v]{N']
+ucm]sC was the highest scoring string, with a 0.3333333333333333% similarity to the goal string marcus
+['ucm]sCNB', 'hcpPsC', 'ocmgs=', 'ugu]s', 'u_mMs', 'ucm]mS', 'ucm\\}=', 'urmJsE', 'uPm]}2', 't[^]sC']
+ucm]sC was the highest scoring string, with a 0.3333333333333333% similarity to the goal string marcus
+['vc ]sD', 'ucm]s', 'ucmKsI', '\x19cm]sC', 'u^m]sC', 'uvm]jC', '|cm]s', 'qcm]sN', '}kl]nW', '\x17ckbdC']
+ucm]sC was the highest scoring string, with a 0.3333333333333333% similarity to the goal string marcus
+['\x1acm]sC', '\x17T]ar', 'uTmasC%', '\x18cu]sCo', 'uam]\x1eA', 'l_la\x1dC\\', '\x1bcmYvC', 'uqcbs9', '\x19ummsC', 'qcmSqN']
+ucm]sC was the highest scoring string, with a 0.3333333333333333% similarity to the goal string marcus
+['uongdC', 'ucxgsL', 'ucm]sA', 'ukkMs', 'u_u]\x19C"', 'snm]sK{', 'ucmU', 'ucmcoC', 'ucm]sE', '|cm]sC']
+ucm]sC was the highest scoring string, with a 0.3333333333333333% similarity to the goal string marcus
+['\x1ecdnrD', 'xcmKsC', 'u]mKsC', 'ucmfbC6', 'ucm]s', 'uXm]nIs', 'ucm]sC', 'uifmsC', 'ucm]{K', 'ucl]sR']
+ucm]sC was the highest scoring string, with a 0.3333333333333333% similarity to the goal string marcus
+['ugm]sI', 'v[~klC', '\x1ccmhsT', 'uom]sCy', 'ukm]eCK"S', 'ucm]s?l', 'ucf]s', 'n`mls>', '\x1dcm]\x1e', 'un\\]sG!*3']
+ucm]sC was the highest scoring string, with a 0.3333333333333333% similarity to the goal string marcus
+['\x17nx]pC', 'eUm]s', 'uc\\]sC7', 'mc`jsE', 'u_zZs', 'uimTsV', 'fcm]sC', 'ucm]bCYe', 'ucZ]s', 'ucm]s6']
+ucm]sC was the highest scoring string, with a 0.3333333333333333% similarity to the goal string marcus
+['hh ]gC9', 'uam]uI', 'o]m]sE', 'ucm]sB', 'jcj]sC', 'eim]sC', 'memk', 'u\\m]iA', 'uc\\kuM', 'tc~o~?']
+uam]uI was the highest scoring string, with a 0.4166666666666667% similarity to the goal string marcus
+['us|]\x1dH', '|am]u6', 'sP\x1f\\q', 'oam]uC!', 'ua_]uI', '{Sh]uI', 'uTn]uI', 'uam]uI', 'lp^du?', 'uayYh']
+uam]uI was the highest scoring string, with a 0.4166666666666667% similarity to the goal string marcus
+['rem]tI', '\x1dkm]uY', 'y[m^uI', 'uYmRuI', 'uamauI', 'uam]jI', 'uam]', 'gSmKuI', 'fdmdu;', 'zmdnjD']
+uam]uI was the highest scoring string, with a 0.4166666666666667% similarity to the goal string marcus
+['uam]uI', 'uam]uI', 'uam]uI>', 'ubmRuN', 'pai]b7', 'dam]u<I', 'fNm] I', 'uaacxI', 'ufm]uI', 'uam`uW']
+uam]uI was the highest scoring string, with a 0.4166666666666667% similarity to the goal string marcus
+['uam]uI', 'x`m]u', 'uamXuI', 'uamXuZG', 'uam]u>{', 'uom\\u[', 'utrhu', 'uamjn', 'uam]fI', 'uam]uI%']
+uam]uI was the highest scoring string, with a 0.4166666666666667% similarity to the goal string marcus
+['u`[h{I', 'uamNuI', 'ua\\]uI', 'ya]]u', 'uamhuI', 'kam]\x19L', '~a[]uI', 'g`m]uIn', 'tRm]uO', 'lam]kI']
+uam]uI was the highest scoring string, with a 0.4166666666666667% similarity to the goal string marcus
+['xam]u7', 'ua`UuK', 'ucm]uI', 'xaq]uI', 'uZu]\x1eI', 'uavooG', '|am]u', 'ua_]i9', 'uabnu', 'uag]uI']
+uam]uI was the highest scoring string, with a 0.4166666666666667% similarity to the goal string marcus
+['ua}]\x1aI^', 'uWmokI', 'gav]u6', '{tm]u', 'u`m]lI', 'urm]vH<', 'uUb]uTV', 'uaj]u8-', 'gam]u9', 'uam]uM']
+uam]uI was the highest scoring string, with a 0.4166666666666667% similarity to the goal string marcus
+['famhk:T', 'uR[muI', 'uQp]\x1e', 'hXmSnF', '\x1cam]uI', 'uambuD', 'upmPu<', 'sjm]sI', 'uam]uI', '\x17]vjuI']
+uam]uI was the highest scoring string, with a 0.4166666666666667% similarity to the goal string marcus
+['uamVlJ', 'ua\x1f]yE', 'iamJuI', 'ur', 'uam]uI>C', 'jpw]h>', 'qsm]um| ', 'ea[_hY', 'bam]uI', 'tam]\x1d8']
+uam]uI was the highest scoring string, with a 0.4166666666666667% similarity to the goal string marcus
+['u]m]p:', '\x1faonlK', 'yappeI', 'ua~_bL.', '}a]muI', 'ug\x1f]uT', 'mamouH', 'ukm]u6', 'ugm]uJ', '\x1dam]jF']
+mamouH was the highest scoring string, with a 0.5% similarity to the goal string marcus
+['mamsuHI', 'ma_olH', 'mamlu', 'tam_u', 'mfmou<', 'mdmouN1', 'gazoqH', '_Tm_gH', 'maaoiM', '`Umou']
+mamsuHI was the highest scoring string, with a 0.5416666666666666% similarity to the goal string marcus
+['mTysb??', 'oXmsuHIDk"', 'mahsuHUl', 'mamryH7', 'mamluHI', 'mRrsuHI', 'mams\x1eTI', '}amr~HI', 'memswHI', 'mams|HI']
+mamsuHI was the highest scoring string, with a 0.5416666666666666% similarity to the goal string marcus
+['salspHIk', 'mass{BI', 'ma{\x1au6', 'maasuSI', 'mafsu:Z', 'ja~suHI', 'lOtsuHIf', 'momqmHI', 'mPm\x19fHIa', 'memzuHI']
+mamsuHI was the highest scoring string, with a 0.5416666666666666% similarity to the goal string marcus
+['ya`suH<', 'mam\x1auWInq', 'mqmszJ', 'mrmi\x1dK', 'mfasu5I', 'mamsuHX', 'ddmvuHI', 'mamsu6I', 'ma{\x19|Y', 'mamsrHI']
+mamsuHI was the highest scoring string, with a 0.5416666666666666% similarity to the goal string marcus
+['maks\x1bHIo[', 'mamphHI', 'mOmsuHI', 'jPmsuHW', '[amsjHI', ']r~sfHI!', 'lZnsuHIc', 'mamjuD9;(', 'jamsuHR', 'm]msuHG']
+mamsuHI was the highest scoring string, with a 0.5416666666666666% similarity to the goal string marcus
+['mavyuLB', 'flmixWI', 'iQmwx', 'mamsuUN', 'jams\x18QI', 'mamsuHBi', '|a|suHI', 'maasuXIx', 'mamsuHI', 'max\x19uHIk']
+mamsuHI was the highest scoring string, with a 0.5416666666666666% similarity to the goal string marcus
+['mamy\x1cJ=', ' awvuF', 'qr ruH9', 'm_mbsH', 'm[bsuHE', 'walsdFI', 'msmsp', 'mejs\x19HI', 'eam~lT', 'mamlqHI']
+mamsuHI was the highest scoring string, with a 0.5416666666666666% similarity to the goal string marcus
+['oassjHX', 'xamoiHW', '_ghs\x18H6', 'mars\x1c?W', 'mpasuH', 'maysuHA', 'mtmsu>F', 'ma^smHO', 'mavauS', 'eamsuHI']
+mamsuHI was the highest scoring string, with a 0.5416666666666666% similarity to the goal string marcus
+['mZmsnK9', 'lZmsuKI', ']am\x1agHL', 'mOwseHVV', 'mamsiH', 'mtmjuH7I', 'oamyuMI', 'maxsuZI', 'mdmsuH\\', 'ZamluUI']
+mamsuHI was the highest scoring string, with a 0.5416666666666666% similarity to the goal string marcus
+['\x1famsuHI', 'mamsi', 'mh_su58', 'mamumH', 'madhhH<', '`a`suHO', 'wjm\x1fuHY', 'xamsuH', '~amsu;I', 'mamx~HI']
+mamsuHI was the highest scoring string, with a 0.5416666666666666% similarity to the goal string marcus
+['[`ms\x17PI', 'marsz9R', 'mamscR8\\', 'mj suVI', '\x1fTmsuQI', '\x1fNmsu@I', 'mamsu', 'mame}HI', 'mamsuDI', 'mamsuH8']
+mamsuHI was the highest scoring string, with a 0.5416666666666666% similarity to the goal string marcus
+['bamsuXI/', 'meh}|EO', '~em}uHId', 'Zamm\x1bH;', 'mUfsuHL', 'mN`suHI', 'mamsuQZ', 'm\\mvhH=', 'mapnuHI', 'maplqHI']
+mamsuHI was the highest scoring string, with a 0.5416666666666666% similarity to the goal string marcus
+['yomsuC', 'bamfuHI', 'wNmq\x19HI', 'nam|u?I', 'mb\x1fouHI', 'mnfrnHI', 'maisuGI', '_amsuHF', '[amsuRp', 'mkisuH']
+mamsuHI was the highest scoring string, with a 0.5416666666666666% similarity to the goal string marcus
+['mbbsuII-', 'mdmsu>I', '`r{}q5', 'mamsuH', 'ma\x1fsuVI', 'ma sbP', 'ma_sv>I', "maislRS<'", 'mhtsuHIqZ', 'madsbHI']
+mamsuH was the highest scoring string, with a 0.5833333333333334% similarity to the goal string marcus
+['yaqsuH', 'maysuU', 'msls{H&', '\x1famsgB', 'ma\x1fsuH', 'ma|jmH,', 'mmmsuH', 'manssE', 'mhmsuH"8', 'mam`uH:D']
+mamsuH was the highest scoring string, with a 0.5833333333333334% similarity to the goal string marcus
+['ZamsdH', 'ramsuH', 'egmauW', 'mamo\x1fH', 'mjmpu[3', 'mamstH7', 'mqms', 'mams\x19', 'qawsu;', 'mamwvJ']
+mamsuH was the highest scoring string, with a 0.5833333333333334% similarity to the goal string marcus
+['msmgu', 'oazs\x1bH', 'mams{F', 'mamsqH', 'mavmmH', 'ma]svH', 'mamsxH', 'mhmsuI', ']a\\sw', 'malsuL']
+mamsuH was the highest scoring string, with a 0.5833333333333334% similarity to the goal string marcus
+['mam\x1au5', 'm_jxuJ', 'ma`suH', '[agnuH', 'mans', '}VmsoN', 'ma^su', 'pPhs}Xw', 'gamsfH', 'mamsiH']
+mamsuH was the highest scoring string, with a 0.5833333333333334% similarity to the goal string marcus
+['mbmsoH', 'mamj\x1bP', 'mamjyH', 'mams}H', '[am\x1ep', 'mom\x1auH', 'fags\x1b', 'maZuhH', 'mZmtdJ', 'aa}u\x1aH{']
+mamsuH was the highest scoring string, with a 0.5833333333333334% similarity to the goal string marcus
+['mabsuT', ' UmwuH', 'ma}yuZl', 'mao`uH', 'ma\x1fsuH', 'mdms\x1fO', '~j^u\x1b[,', ' aoiuH', '~bmuuL', ']amslX2']
+mamsuH was the highest scoring string, with a 0.5833333333333334% similarity to the goal string marcus
+['madssHU', 'asssu?', 'mamsuHn', 'mamsu', 'mamfuH', 'ksmsu', 'mam\x19fF;', 'mo[sw', 'mamsm', 'ma{\x1bqH']
+mamsuH was the highest scoring string, with a 0.5833333333333334% similarity to the goal string marcus
+['[am\x1e\x1eH', '\x1flksu', '|QpsuY', 'damsh9', ']ams\x18=', 'mamsu', 'ma`scH', 'mamhuW:', 'yafs\x1e<', 'mabsrH']
+mamsuH was the highest scoring string, with a 0.5833333333333334% similarity to the goal string marcus
+['mbm}u[', 'tcjs\x1f>', '\x1faisu7?Bd', 'wamsuH', 'fQmsuB,', 'memsut', 'mamxuJ', 'mamquH', 'mQmsuT', '_Zgsu']
+mamsuH was the highest scoring string, with a 0.5833333333333334% similarity to the goal string marcus
+['mjos\x1bB', 'mawse', 'rsms\x1f', 'oamsuH:', '[Oyy\x1aA', '|\\m\x1cxH', 'mO`s\x1c', 'mXmh\x19H', 'mOmru', 'mhmsu']
+mamsuH was the highest scoring string, with a 0.5833333333333334% similarity to the goal string marcus
+['mam\x1cuH', 'mamsu@', 'maesuH', 'dVmcqHl', 'samsuV', 'mausuH', 'ma\\', 'maml\x1bH', 'mamsuH', 'mgtsuL|']
+mamsuH was the highest scoring string, with a 0.5833333333333334% similarity to the goal string marcus
+['mamsuP', 'haisuH', 'ycmsuU', 'mN^\x1bpH', 'mas\x1dpH', 'hamsu', '[ajflH', 'mQ~suL', 'mjmuuHe', 'mcwsu']
+mamsuH was the highest scoring string, with a 0.5833333333333334% similarity to the goal string marcus
+['mamso9', 'mdmluL', 'malsmHY', 'mat\x1au', 'mSmsgQOK', 'mgmsmH', 'mam\x1fi', 'ji\\s\x1c', '|ZrvuH', '^qmvd']
+mamsuH was the highest scoring string, with a 0.5833333333333334% similarity to the goal string marcus
+['mVmsuH', 'mamsu', 'm`msx', 'ma w\x17Ka', 'm[msuH', '`^m\x1fpX', 'ja[suH', '{dm{d<[', 'mamcuE', 'maps|H']
+mamcuE was the highest scoring string, with a 0.6666666666666666% similarity to the goal string marcus
+['ximcuE', 'vemcu', 'ma`cvE', 'mo cuE', 'mamc\x1eE', 'mam\\uE', '[`\x1fcu9', 'eaucuI', 'mamcuD', 'mnmc\x1bV']
+mamcuE was the highest scoring string, with a 0.6666666666666666% similarity to the goal string marcus
+['mamcuE', '_amTuM', 'mmmcuE)', 'ma~amEgy', 'madhuN>', 'mamcuE', 'mabcuI?', 'cfwcu', 'm]mcuE', 'mrm_uT']
+mamcuE was the highest scoring string, with a 0.6666666666666666% similarity to the goal string marcus
+['ma}s~E', '[apc\x1f', 'raa[uE', 'vPmauE', 'da]cmV', 'mancuE', 'mXfc\x19G', 'mpmsuEQl', 'wOmcuE', 'mamcuN']
+mamcuE was the highest scoring string, with a 0.6666666666666666% similarity to the goal string marcus
+['madPg', 'm`mvjEJ', 'zabcuQ', 'ZYmcu', 'mjmcuE', "mamcwJ'&", ' YmczE', 'mnmau>', 'matcpEU', 'momcuE']
+mamcuE was the highest scoring string, with a 0.6666666666666666% similarity to the goal string marcus
+['nPm_uE/', '\\am_u', 'mamcuD', 'mamcrE', 'Z`mc\x1f', 'kkmZlQ', '^^gcu4', '^amtn', 'm[mcbEA', 'mrmuuLnf']
+mamcuE was the highest scoring string, with a 0.6666666666666666% similarity to the goal string marcus
+['ma]csE', 'msrcuE', 'mhmcu`', 'mamcuE', 'mlmYuE', 'gamcuE', 'pmmcfE', 'majguE', 'uhmcu6', 'mam']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msru\x1b>', 'm{ucuE[', '\x1fsecv', 'ms czE', 'msrcuX4+', 'msrQuE', 'hsrc\x19', 'ms\x1fYuE', 'mcccd39', 'mtrcuE>^']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mh}ju9', 'z\x1brWoB', 'fs\x1ec\x1c3', 'csr\\uE', 'msrbic', 'sg|cuB', 'ms~cuE', '_\x1crcuE', '{src\x17', 'msecu6']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mszcs"', 'mst_uE', 'msrc\x19E', 'msrcuXv', 'mnect', 'zsrcuQ', 'mnjcgE', 'os\x1acp@Y', 'msrc\x173-:', 'murnu']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['|\x1d`Vu$', 'asrcuE', 'miaR\x1fEA', 'msrcuE', 'm|rVuE', 'gshYuE', 'msrkuE<', 'msqc\x173', 'mwruuFx', 'msruu']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msucu3', 'msrcuE', 'msrcuE', 'wsrcu', 'l\x1b\x1dcr', 'ms`WdE', 'mlrc', 'mdrcu:/', ']sr]u', 'msrZuEK']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['ms fe=!', 'murnrE', 'msrcrE', 'msrcuE', 'm\x1cjguE', 'msrc', ' srcu?', 'msrWuE', 'mer]u>', 'lbrauE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msycwP', 'nkrcuE', 'for_uED', 'mxrcyE', 'p\x1crc', 'mgccd?', 'msrcu5', 'msrckE', 'mmrcuE', 'msrcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['{mrcuE!', 'he\x1ccuT', 'osr[uH', 'c rcuR', 'mbrc\x1a', 'mqrcuA', 'gsr\\uP', 'ms\x1fcuC', 'msrcuE', 'msrc}Q']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['ms\x1fvh', 'zs fu?', 'msrc E', 'msqcu2', 'mypcu', 'msrcuEH', 'osrc\x1bE', 'mur^sE%o', 'mhrcs9', 'vsocu2O']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['gnrjs6R', 'v ccqE', 'msrcuN', 'm\x1crc', 'mvrorS', 'msrSuE', 'ms\x1cc~E', 'm`yc\x1a', 'msnduE', 'ZsrWuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrSqE', 'qsrg', 'zsrcu3', 'x{jkrE', 'msrcu4', 'ms_S', '^src~E', 'sbrPiE', 'ms}czE', 'msk^']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msjcbE', 'gsecuE', 'mszclu', '~qrsuW', 'msrZuN', 'isr[xE', 'muvcwC', 'msrcuE', 'msrcuE', 'm rc~P']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mlrcuE', 'myrcu', 'mk\x1cSm%4', 'pcrsc?F', 'msrvbAP', 'msr\\eD', 'msrp', 'msscu2', 'msrcuE', 'msrccE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mkhc}I', 'mgrcuE', 'Zsv[uE', 'mgb]uE', 'msrtuC', 'msrc\x18', 'ms`]s:', 'q\x1d\x1dcuR', 'mh\x1c]\x18N', 'vcrluEx']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrc\x17', 'onrcn5', 'q{rchE', 'ks|c\x1dE', 'msrvpV', '|sr', 'gsrcu', 'msuguEz', 'm\x1ercu7', '\x1foscmE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['|}dcuE', 'msr]wE', 'msrWuJ', 'm{rcgE', 'mxscuGl', 'msqqdE', 'mpscu<o', 'dxzc 8', 'msfc\x1eE', 'ssrc\x1bE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrch', 'msr_eEh', 'e`scuHJ', 'msncuQ', 'mcrpxE', 'ndrcuE', 'msrcuE', 'm\x1cm`uE', 'msrcqE', 'msmcu']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrQbF', 'msrczE', 'msreu', 'mtrcnEb', '}zrc~E', 'msluuE', 'msxTf', 'v\x1brcu', 'm\x1brcxE', 'dsrcu']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mjrPdE83', 'ksh_\x1c2A', 'ms\x1b^|N', 'msr^uL^', 'msrju', 'm~\x1ceu', 'gs\x1fcx:', 'msrcuE', 'msrcu', '~sp[uE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['tsrcB', 'mrrcuEo', 'msrc{R', 'msa^m7/', 'ss~c', 'maoj\x1aLn:', 'jspchy', 'tsrsuH', 'msrcuE>', '|sspqL']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['_srcuE', 'ms_cuA', 'vfruuE', 'gnrqu', 'msr[uEX', 'rs~cu', 'ksmUu>', 'ms\x1fcuE', 'msycuE', 'msr']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrc E', 'hshP E', 'escc', '|lrcdE', 'mg}t\x1cE', 'lsrc~N', 'm}p[uE', 'msrcu>', 'mnrcx', 'mv\x1dcu6']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['heic', '^\x1a\x1fc\x1dE', '~~\x1bcuE', 'm|rcu', 'muroyQ', 'ds\x1dcu', 'm\x1cr]uN?', 'merce?', '_srcuE', 'msrcf/']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['m\x1brck', 'msrcuE~', 'msrruA', 'ms{c\x1e6', 'mqreuE', 'msrc\x1f>', 'm\x1aruuE', 'msucuE', '}sruuW', 'gv\x1dcuE/']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['purVuE', 'gs\x1bduE', 'msrczED', 'tsecu:g', 'ZsrcuE', 'l\x1b{jj', 'm\x1bglu:', '_srkuo', 'msrcuE', 'msscu?}2']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mjrVsR', 'msrcvE', 'm\x1cr]\x17?', 'msbcqE*', 'osrcuGE', 'ms_cuJ', 'ms\x1aX\x1eE', '`srcgE', '\\srS\x1d=', 'm`iQtEx']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrc\x17T', 'msrcu', 'dsrl\x17=', 'm\x1c\x1dcu', ']xrcuE', 'ms\x1bcd', '\\j{cu', '}crUnE', 'i}}\\u=', 'm}ocu']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['xdrcuE', 'mwncu', 'zour}E', 'msrcc;', '{s`c\x1cE', 'yigcu;', 'o\x1bracE', 'msbjuEJ', 'ikrdu3', 'rsrcu8#']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrcu<4', 'msrcu', 'mscQu', 'msrsuy', 'm~rhuG', 'msrc{:', ']s`cyH', '[src{T', '|srcu8', 'm\x1crbuF']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrcuE', 'msrSuE', 'msrcuE', '^rrq\x17V', 'ms\x1dc\x1eE', 'msrc\x1aE', 'msrcu5', 'ms|UuE', 'i\x1crcb', '{srcdE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['~srUgE', 'ogncgE)', 'msdcuE', 'msrcuEq', 'msr\\u', '\x1fj`cuE', 'msrc~N|', 'msrccC', 'osrcgF*u', 'msrcu']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrcr$', 'my m~E', 'msrcm5', 'qsrc\x1dE', 'msrebEh', '}sccd;', 'msrc~7', ']s_cuEXS', '\\cic\x17A', 'ms{c\x18c']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrcuE', 'gs\x1ccuE', 'mx\x1cv|E', 'm{|cuE', '\x1fsr]u', 'xsrTu@', 'msocuE', 'msrc', 'msrbuE', 'ssrcjE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['rs{cu|', 'wsrcf', 'mwrW\x1b', 'turcuE/', 'm\x19rf\x1a4', 'klr`uE', 'msj`uF', 'msqQuE', 'o`rtx', 'msrilE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['\x1fsscuA', '[wr_eEU', 'msfc', 'm\x1crpuE[', 'qsrc\x1dAI', 'c\x1fkcuE', 'msiruE', '{s_cu;', ']vrcuE', '~sicrE)']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['`jjc~K', ']jrT~>', 'm|zcuE', 'qbrcu7', 'fsrcuE', '^srqu', 'dzrcuE', 'd`rcsED', 'm{ocuE', 'mercuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['m\x19rcu;', 'msrcuE', 'mfjcu', 'ms\x1eveG', 'msrc\x18@', 'msrcu8', 'zrn[qEH', 'mskcuE', '{\x1freU', 'jsecvE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrguE', '] rauE>', 'mmyc\x1eE', 'ms\x1fUuE', 'msrcuT"', 'mdrcuE', 'mshcz;', 'mslZuG', 'ssrRcE', 'msrV\x17N']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['zsrc\x1cE', 'msrX}E', 'msrYuE', 'msrcuR', 'jsrYuE', 'psrc\x1aRNb', 'm\x1fxcuE', 'asu]\x17EY', '\\`rc', ']srcu8']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['zsrQ', 'msrc}T1', 'xsrau', 'msrXu ', '`sscuE', 'mhrc|E.', '}sbcu7', 'msrXgE', 'o|gcuE', 'msrcr']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mcm_uEH', 'mxrcuE', 'tbccuE', "umrjk'", 'nercu?', 'morZ', 'msrtlEy', 'gsrRuE', 'Zsrau', 'msrYuX']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['`utXuA', 'msrcu', 'ms`c\x17E', 'm\x1awcu@J', ']w~cu?', 'iljQc', ' srcuE', 'msrcuM', 'ksr\\u', 'mhrtk']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrcu>,#', 'osrbcR', '|srQcE', ' drcuK', 'mtrcuEK', 'hsrauE~', 'eqrci:', 'msr_u', 'mfzcuE', 'b\x1drcuX']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['wsrcu94', 'msrcu>', 'mhrcu?', 'murtuV', 'motczR', 'msrcu', 'msrgu', 'lvrc{E', 'ksr]iE|', '`\x1drcuE{']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrcsE;', 'msvc|E!', 'msxcuR', '|srSuM', 'm\x1frcuEK', 'x\x1arfuE', 'mspVuG', 'mfrcu\\', 'msb[g@', ']yrcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['}lrauV', '[ \x1fcuE', 'msrduEv', 'jdrcuM', '\x1f\x1fr[u', 'm\x1dvQ', 'ms,', 'xarcu?', 'mu\x1bcjE', 'mn}cx']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrfyE', 'ni~cu;', 'msenuET', 'ms`aeE', 'rsrcq2', ' szcu4', 'npncuE', 'm~rayI"', 'msmcuO', '~oqcpS']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['m\x1erQgES', 'ds{cuE', 'xsr^uE', 'wlrcuI', 'msrcu', 'ms~cuE', 'msrdu:', 'msjbuK', 'nsrk\x1fE', 'msbju@']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrcu9', 'msbc', 'esrcuE', '_wrcuE', 'msscu', 'gs|jcOR', 'myrhuG', '|srcgEi', 'msrcu', 'rwycf']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['m rcz?', 'msrcuR', 'wsrcz', 'm\x1crP\x1fE', 'mzrn~E', '{srpn', 'hsrcoW', 'm`r]u', 'msr]mG', 'mq~cuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['wsrc\x1aE', ']stcoE', 'psrQu=0', 'mstczE', 'zsgcuX', 'ms\x1ac\x1bE', 'tmrtmE', 'ms|cuz', '\x1ffycuE&', 'qsrS{E']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['[u~cuE', 'msrc E', 'mmrcuN', 'msrciE[', 'xsrcuE', 'csrXu3', 'wskrfE', 'msrf', 'ms~cuE]', 'ms auE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['gsrcqd', 'm{\x1ecuE', 'msrcuE', 'msfcuE', 'ms [uK', '~srcuEK', 'ms~cuE', 'mnqcu6', 'mq{cuE', 'ma\x1acuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['o\x1erYpE', 'msrUuE', 'mmrcu', '[src\x1aE', 'mjrc\x1cz', 'msrihD', 'ps\x1acuE', 'merou', '~srcu=_', 'msrcfE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrQz', '}s ceE', 'msueuE', 'lkkc', 'msrjs', 'mu\x1eX', 'msr\\hB', '\\srX\x1eE', 'msrPu', 'msrcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['m\x1crc\x1dE', 'ksrR\x1bF', 'msrc E', 'msmWuI', 'msh]u', '[srcuVI', 'msvcuR', 'mercoS', 'm`iclE', 'cs cuH0']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['etrcu', 'msrcwE', 'ms}cu8', 'msrcuE', 'maoc\x17A', 'msucwEC', 'msrcf', '^sacu', '_xglu', 'ms\x1bcuU']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['xirSuEW', 'msrcuI', 'm\x1dnkd5', 'a`rnuB', 'msscm', 'mmrcuE', 'ms\x1acuEn', 'm~kch>', 'mec]oE', 'myof\x1bH']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrcuE', '}srcuH', 'msrauE', 'mzeRkE', 'm\x1fuuuE', 'aavc\x1dE', 'ns~cu:b', 'msrcuX', 'm\x1e cuEd:', 'ssycz6']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msocVi', 'mdqsu8', 'mvrcuE', '^srQuA(', 'mskc\x1aE', 'mlrcuEg', 'wsrZ\x1dH', 'msrPuE', 'l\x1arZuE', 'mzr^u<']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['myfcu6', 'n\x1ctcu6', 'mzrq{E', 'asrQp', 'mcrUu', 'msrcuE', 'msrcu>', 'nsrluU', 'msrcy', 'm|ruuEG']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['ksrp\x19', '~\x19gt\x19>', 'msrb', 'mvrciEo', 'bsrcj', '[\x1f|cuE', '[srSuJ', 'msqcuE[Y', 'mlcj\x1bEX', ' \x1drcs:']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrcuE', 'ms\x1eiuH', 'mjrcuS', 'm\x1dbcuE|', 'gkrcu', 'mrqcuE', 'm}rcxE', 'jsrcu', 'jqrcuK', 'dsibcE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrc\x1bEe', 'v\x1b\x1aWkO', 'mxjjiEP', 'msrc{E', 'msbRdE', 'msacuE', '[srRuG', 'mrk^kE', 'msrq\x17E.', 'm\x1a~cuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrcuE', 'vsrTyE', 'msrc{E', 'm\x1drQ\x19E', 'msr]u', 'ms\x1bo\x1f:', 'mqrcvL', 'byrc\x18MC', ' zrcu@', 'msriuT']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['ms\x1aQuoG!', '|s}ciF', 'mskcuE', 'ms~Vu>', 'm{rXu', 'mw\x1fcuE', 'ssrgs(B', 'jsjcu:', 'msrcuE', '{srfuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['m~rc{<I@', 'mspc.', 'oyrczE', 'ksreo', 'fspc\x1fE', 'msrcr', 'ms\x1b_uS', 'msrcu', 'ksr', 'msrcnE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['ksrm}=', ']syc|E', 'mezcuE', 'm\x1frcuE', 'lsrcsE', 'msrc\x18', 'os`csE', '`srcbE~.', 'msrc', 'msr`u6UD']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msccuE1', 'cs\x1ecuE)', 'ms_c\x1f<', 'ms\x1ffj:q', 'msrSu6$', '~lrcu5', '^r\x1dsuT', 'mshcu<', 'msrcuB?7', 'mtrcu']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['csu^u:', 'msp', 'y\x1arc\x1dH', '~krcuE', 'qsrcu5', 'ssrcyEx', 'msrcuE', 'msmcuE', 'm\x1brcu', 'ms\x1ccuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['bprhuE', 'ms\x1bk}<', 'm\x1agcuE', 'fsrcs<', 'dsrc\x1e', 'cgrf', '^lrcu', 'msrcuE', 'msrRhH', 'mzqVuL']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['\\}rcuE', 'bsrc\x19E', 'm\x1arcsEm', 'ezxcuA', 'msr', 'msogu;', 'f`rcx', 'mse', 't|rcfE', 'msrcu']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrcuE', 'mprP|', '\x1fsrcuJa', 'msjqo5', 'tqrct', 'hyrcu', 'asbcuEE', 'tsrVu2', '[erYuP', 'mnrcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+[' sycy', 'ds\x1ccuX', 'ms\x1ek\x19V', ']sjc|E', 'ms|cuM', '|socuE', 'mq_cuH', 'mjrSuW', 'o}rYu6', 'mwr`u7']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrc"', 'fyrcuE', 'mfwR\x1cD', 'ls\x1fcu', 'mwrcpI', 'mswQuV', 'morc\x17EE', 'mscTu', 'v\x1erc}E', 'dsrcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['m~rouC', 'qs\x1fRuE', 'mpjfu', 'ms', 'msrccS', 'myrcuR', 'mrqcuE', 'msrcu', 'msrcuF', 'g\x1ark\x1bE|z']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['nsrc{E', 'msyduE', '^trcuM', 'jsrtuE', 'm}r^u', 'wsrloE', 'msrQfE', 'rsnPu', 'msra\x17U', 'ktrcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msdcuE', 'msrcuEu', 'm\x1eriB', 'msrvuE', '`rrcu', 'mnrVuA', 'h~wcu?', 'ms\x1cci$', 'turc\x1cE(', 'mu\x1ccu']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['g`rduE', 'm\x1drcuE', 'asrckW', '[sj`u=9', 'm|fV ', 'msrZsE', 'mfrcuB', 'pdrc\x1eG', 'msrcuEX', 'm\x1ervjO']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrTuE', 'dsr`u', 'mc\x1bc ', 'msrcuG', 'msacu', 'mnrc{E', 'osyc\x19;', 'mjrc|E', 'mzrcuN', '[srmuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['osrcuE', 'msrcu', 'qsrcvW', 'm{rXuE', 'mdrcuE', 'm~mcu', 'm`rci', '|srWuE', 'hsrUuC', 'msrouL']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['ts\x1eTu', 'osgcu6', 'ltrcgE', 'msrcuEQ;', 'msrc', 'm\x1a\x1ccx7', 'mswsu', 'br\x1dcuF', 'ks}guC', 'mwccuA']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['murcu', 'bsrduE', 'm|zruE', 'ms{cuE', 'msnSuE1', 'jsrsuE', 'ssrcuE', 'mwtPu@', 'murcuE', 'msoRuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrcuE', 'msrcuE', 'msrcsQ?', 'isrluE', 'm rcuS', 'm\x1dtRu', 'pprcu', 'hmrc', 'osa]\x18', 'murcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['[gr;', 'mtrcuE', '|srdu3', 'gsrcuE', 'iarfuE', 'mwr\\uV|@', 'msrcuB', 'nszcu<', 'msrjuEf', 'm\x1arduEt']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['uswlu', 'qsrusE', 'msgeuE', 'msrquE', 'm\x1ercuE', 'msrcu5', 'msrcuE', 's}rcuS', '_s{lu3x', 'myws\x1aE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mtrcrI', 'bsrh\x18', 'mvrcu;', 'msxjqFI@', 's`rQuFQ', 'mcqcwEb', 'msrcuE', 'msrSdE', 'msscuEh', 'mjr_uE-']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msscuK', 'm\x19rcuE', 'i\x1arc~', '`\x1f|cdEe', 'mt|TuEa', 'msrcqE', 'msx]u', '\\src', 'msrfu4/e6J', 'd~rcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msr_uF', 'm|ncuE', 'sspeuH', '`srcmE', 'ms_cuR', 'bq`cxJ', 'msrchQ5', 'jsrk\x1ev', 'hsrr\x1f?', 'msgcu5']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrc\x1c', 'myrcu', 'msrSuW', 'xzccuE', 'msrcwE', 'msrcuV', 'mspRw=;', 'mgrc', 'msrguQ', 'msgcu']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msyc\x1d', 'ubrcrQ', 'msrc', 'gsmc\x1dW', 'msl_nLvZ', 'sxrcb', 'isrsuE', 'Zgrpu;', 'psre', 'u\x1brcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mgrc.', '\\srhuEC>', 'Z` au>', 'pdrduE', 'mkrUuW', 'msrVu', 'mnrcbb', 'u bhuE', 'mhqc Eg', '^j\x1bcu:']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mswcuQ', 'msbcuE', ']sl', 'msrcuE', 'dircuE', 'm\x1brcrE$', 'mufXuE', 'msrVT', 'msrcq', 'm~rZuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+[' srZu', 'm\x1bpcvEP', 'cdt_u', 'mirX E', 'mj{cuER', 'm\x1drcu6', 'msrkiEE', 'mo cuE', 'ns\x1fquEE', 'msrchT5']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msa]uE', ' s_euL', 'msrcu', 'gsrcuE', 'rfrcu', 'mnrcuE', 'msoc N', 'qsf^uc', 'asrcuL', 'msrRuM']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrVyE', 'msr[u(', 'msrcuE', 'mnrcuE', 'mthcuI', 'z\x1erhxE', 'me{cuGG', 'msejuE', 'hs\x1ec\x1d=', '_sqiW']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['wsr^uEc', 'msrcu5', 'msccuE', 'asrcu', 'lqrcuE', 'yskeuE', 'f\x1baoc', 'bsacx<', 'msrWnR', 'c\x1etcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['s}rcuA', 'gsbcoEm', 'zirUuE', 'msrcpI', ' srk\x18E', 'm|rc~E', 'msrcgJ', 'msrcuE', 'm\x1ercuW', 'vsrouG7']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['hrr`s7', 'qsccoE', 'mhrcuG', ']urcuE', 'mhbptC', 'msr[uI', '[srluR', 'mdrcrE', 'psic\x1f<', 'msr_u']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['lnrmuE', 'msrl\x18', 'm\x19rcuE', ']srcuE', 'msecn;C', 'megigEq', 'azrc', 'qshc\x1bD', 'ksrnkE', '}srcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['vsrfxE', 'merc E', 'm|{cu', '[ \x1fhuL', 'msrcu9', 'msrc\x1f', '\x1fs\x1ccuE', 'mnvcyE', 'msd^y', 'mlgpuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['q \x1bcuE', ' shgu', 'q|ecuL', 'mpv[u', ' srcuE', '~srcu', 'msecuE', 'msrcuE', 'tsrTu8', 'msrT{K']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['`rrcuE', 'murcu>', 'msrcu=', '~\x1aruuE', 'msrcuE', 'fsrjuE', 'ikrcm4z', 'muxcr=', 'msrfuE]4gw`', 'msjnuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['marTuE', 'msrcuU', 'korsuE', 'vs`co', 'm~}duE', 'osrceED', 'iorcn6i', 'msimuE', '\x1fn{hu', 'msrQuV']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['ba|', 'msigyC', 'msrTp', 'gsrcu', 'aslcuP', 'msh', 'wsnSu_', 'mnrcuE', '^sruuE,', 'msrctED7']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mkruuE', 'msqcuE}', 'fsrctK', 'Zmrcu*', 'bprci', 'isrcuE', 'msrcuE|', '`srS\x1fE', 'isrcuVo', ' w\x1bcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['m rcuE', '{srcuq', 'm\x1drcu8I', 'msrVuE', 'msrc~E', 'mwriuL', 'msrcu3v', 'mphcu', 'msvcuE', 'mfrcuEG']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['dsrl\x1c=', 'm\x19rcqQ', 'msrr\x1fU', 'mdrc\x1cM', 'Zsrnu', 'm{rcu5', 'm{rWuE}', 'ysbcu8', '_sac\x1dEK', '|rccuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mfrcr', 'msrcuE', 'muscuE', 'murTuE', 'mprc~E', 'rs\x1fcuE', '\x1fsrcu9', 'mercu6', 'msrcuE', 'mswbuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mvrtu<', 'bs\x1fcuB', 'qsrcuE', 'msocpI', 'm\x1a\x1ccnE', 'edrZu', 'mprcu', 'u\x1drcu7', 'msrcuH', 'msfluE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['myrYuE', 'lsrcrE', 'mspcuR', 'esr]uJ', 'msrWuEU~', '\\wr[}E', 'mgrcuS', '_w\x1ecuV', 'msfcu7', 'xcr^uF']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['u\x1frcuO', 'myecuv', 'mercuE', '\x1fs`XuE', '`srbuE', ' \x19r[uEL', 'msrc\x17E', 'msmljE', 'nsrcuEg', 'm~ccbU']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mpsakE', '\\srcu', 'xsrc\x1aN', 'ksr^{E1', 'msrcuE', 'mspcoE', 'psjcuE', 'js}S\x1e', 'dsrnuE', 'jtfurE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['aqfcuE@', 'm\x1crc}k', 'm\x1drcuE', 'marXuE', 'qcrcuJ', 'mwrou', 'mrrT', 'mnr`', 'mdrcuC', 'jyrcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['m`fcuO', 'rsrcuE', 'msrchE', 'm\x1f\x1ckuEu', 'msrcbO', 'jsysuX!', 'msrQu', 'msrcqE', 'mh\x1ccuE', 'mcrc\x184`']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['m~}cu=>', 'mswcuE', 'mgrU >', 'mk_Vm', 'psrcuO', 'mbqce7', 'ms\x1fcuE', 'ssrcuE', 'msrcuE', 'm|rcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+[']sicu', 'msr^u', 'mxkcu', 'msrcc', 'msrTuE', 'msecbO 7x', 'mfde\x17;', '|sriuE', 'msmtz', 'mervh?']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrcu', 'msrcgE', 'm{rru', 'msaab', 'msrctK', 'n\x1dqcjE', 'msrcjEk', 'mspcuT', 'uyrcuE', 'msrtu']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrdu', 'mercu7', '`src\x1fV', 'msngjE', 'm\x1erc', 'msrcuE', 'msrcuE', 'm\x1crcxK', 'mhzctJ', 'm\x1ercuL']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['\\s\x1ecuE,1w', 'ms\x1diuB', 'gst`u', 'ysrcuS', 'ms\x1acoE', 'm`eay>', 'm\x1arruE', 'm\x1drc\x1dE', 'msrcuT', 'j\x1b\x1aXrEN']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['\\src~7X', '_mrkuE', 'msrc}E', 'mcrcuE7', 'msrcu', 'msrcuR', 'mlrcuE', 'msrc\x1cE', 'msrcuE', 'msr_uU9']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrQuE', 'e\x1arc{E', 'msjpuz', 'qsrcu%%', 'msrcuE', 'msrYu', 'fsrcuE_', 'mirn}9', 'msuQu@', 'mwrcuE(']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mnrchN', 'rarcuE{P', 'msrcz', 'fs cu', ' sj]uE6', 'msrcuX', 'wbrgzECA', 'msrWu?', 'ms_c', 'ms cuM']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['murec@', 'msmXkE', 'm\x1a\x1ccvE', 'ZyrcuE', 'msra\x1f', 'msrk{=', 'msrc\x1c5zS', 'a\x1dr]uw', ' sro{R', 'ksrcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['^s`ru-8', 'oysmuF', 'm}|cuW', 'msrs', 'mxrcnJ', 'm\x1fzTxW', 'mbrcnE', 'mrrcuE', 'm rc\x1bE', 'm{\x1fcu9']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrqu9', 'm~reuE', 'mu\x1e\\jEK', 'm\x1frouE', '[urZuE', 's|rcuE', 'msrcuG', 'ms~_tH', 'mv_cl', 'usrc\x1f']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['m\x1frcuE', 'm\x1cycuD', 'us\x1ccu', 'msrguQ', 'l\x19jcu=', 'mn\x1ecu:', 'msrcfE', 'osrdu', 'mjrXuR', '~\x19rr\x1cE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrqu9', 'qsdcuE', 'msl]cVh9', 'msrcuE"', 'wsr]uIp', 'msrZu', 'm\x1erk', 'mlrccE', 'marc{E', 'msrcuE"U']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['dixcuE', 'm\x1drguE', 'ms\x1ec|TH', 'msrcmE', 'd\x1ewcuE', 'msrcuE', 'ms\x1acuE', 'msrc', 'murc\x1b', '\x1fsnt\x1fX']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['dkrcu', 'fsrcwE', 'tsrcuA5', 'asrvq56GH/', 'msrSu', 'msrP}K', 'msf[uE', 'msshuE', 'msrTu=', 'msrcu:9@<']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['fsrnu', 'msr', 'hsr[{E&', 'mtrcu?+', 'nsbPfE', 'kfrPu?', 'bsrku:', 'msr[u', 'mergiE', '\\s\x1cluE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msncuE', 'msrU\x1bH', 'm\x1clcuE', 'msrcuE', 'mshQv', 'msrc\x18<', 'mszcu', 'dlrcuE', '{{rclE', 'mxk[h']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mstcuE', 'mz~buEH', 'x\x1arcuQ', 'msrXuE', 'merouE', 'ms\x1bc\x18D+', ']jrXuL}', 'jsrcuE^', 'msxcr8', 'esjRu']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['ms\x1fo\x17E', 'mnrcoEv', 'ic}c\x1d', 'msrc\x17u', '{srcuP', '^srcuE', '\\srcz', 'msocdE', 'msrcyE', 'msucuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mlruuE', 'msrPdT', 'ms~^uA', 'cs c\x1cE', 'msrc', 'xircuI%', 'gszc ', 'm\x1brcu@', 'ms`cuE', 'msrhuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['i|suuEC', 'l}lctP', 'msmc\x18E', 'm\x1erpuE_K', 'x~rcu', 'mnrcu', 'dsrqu4', '|crkuEO', 'myrcuEP', 'm{rcrE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msbvuS', 'msrcoE', 'ms\x1ccuU', 'msrcuE', 'osrcwE', 'msncuE', 'tnrcuX', 'mmrcu3', 'msrc\x1aA', 'mkrbdE8Vq']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['ms\x1ecjK', 'msrtuQ', ']s_cuE', 'muan\x17H', 'msrcuE', 'm~_^{EA', 'msrc}F?', 'm`rcuE', 'm\x1aocuE', 'ms~cu?KS']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['_srn\x1dD', 'mmrucA', 'ZsrcuE1', 'ysz_ Q', 'sspruH', 'mirSiG', '\x1f\x1frcuP', 'osrcuE', 'mu~UuEz', 'ep\x1abuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['jsrcu', 'msrc\x19E', 'mcjcuE', 'ms~cu', '_srchE', 'bsrcuE=6', 'mskcuG', 'mq{cu=', 'usrcuL', 'msr[uO']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['cw\x1cUuE', 'dsqnk:', 'ms|cuT', 'm\x1drc\x1cE', 'msrcuEdt', 'dsbcuEr', 'ms}[tE', 'msrQuE', 'm\x19rcq7', 'usec']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mfrfuT', 'msrduE', 'msrcuE)', 'mlrcuE', 'msvcpE', 'msacuE', 'msxcuBw', ' \x19rqkE', 'msnctE', 'msru\x1bE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msr\\\x1bE', 'msrcuL{q', 'mlrcu', 'mcrceE', 'msrcuE', '\\srchE', 'msrc\x1dEP', 'msrcuE', 'murcu:', '[oo^uE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mslvu', '\x1fprcvE', '_srqu', '|srcuE', 'msr[uE', 'm~\x1cQj', 'm\x1crauE8M', 'bsrauE', 'esrifE', 'nsrcu2]']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrc|?', 'nsdcuES', '\x1fsrcuE', 'mkrcoE', '_sruuE', 'msrc\x1c', 'mfrcuM', 'f\x1e\x1cc\x1bJN', 'm|~ckE', 'mq cl#']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['gsrU3v', 'jsrcu>', 'mswhuH', 'v\x19rSu', 'mnkcf', 'msr\\uE', 'msrcu>1', 'msncuEH', 'qsrcuE', 'ms|meE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrp\x1dE', '^srcfX', 'tsrcuE', 'wsrm\x1aE', 'msqv\x1a?', 'murcfE', '^sqcuE', 'mjr]uI', 'msrryE=k', 'msru\x1b']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['ms_[\x19E1', 'm~rcuEv', 'm{gc~H', ' socuE', 'x|rhuJ', 'mircuE', 'm\x1clru', 'hsrA', 'msrru', 'mstcxEa']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrc{', 'hscmu', 'kfrswET', 'ms}luNc', 'msrcpE', 'osrcuE', 'g|ri\x1cE', 'msrVuE', 'nssc}E', 'msrcuG']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['rsrTfU', 'mgacuE', 'ms_cnE', 'd}mcuE', 'ms\x1cc|C', 'mbjhu', 'm|aWuD', 'm rjuL', 'wsrcuE', "msrcmE'"]
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mkr_uE', 'usscbE', 'dswcuE', 'msrcuX', 'sbrcdE', 'm\x1ar[u', 'm{vcuX', 'msdc\x19S', ']krcu', 'mfqch.']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msscuE', 'lsrcuE', 'msrcuV', 'mxrnuV', 'msrcuEm', 'msrc', 'morUyE', 'mprcu', 'ier\\u9', '\\srZuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrc\x17N', '`srcuN', 'asrcD', 'miqc\x1aE', '\x1f\x19rc|E', 'msocuE', 'j{rc\x1cE', 'msrnrE', 'Zsrc|', 'vsrcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['nsrcu?', 'ms\x1cbu=d', 'mhrcg', 'f rcuG', 'msrcuE', 'mquc}F', ' secuE', 'msrSuE', 'msr`yE', 'm`\x1dcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msyn\x1bE', 'ms ccH', '\\srbuE', 'mgrXq:', '~srcuE', 'msrcuE', 'y\x1axcs=', ']sdcuE', 'o\x1eqcuE', 'm\x1drUu']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mnrcuE', 'msrcuE', 'orrcuE', '}swcuE', 'ms`_uB', 'msrcuE', 'mseUdGw', 'a\x1facuE', 'msrc\x1dE~', 'qg\x1ec']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['ts`cu', 'rx|coE', 'u\x1er\\\x19=', 'm|rTc', 'zmrejE', 'mz~PuE', '{vrQuT', 'm\x1crWsRz', 'msrcuE', 'mfrcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['ssrcuE', 'ltcae<', 'e\x1fbcz', 'mcqcnE|', 'msrct<X=', 'msscjP4', 'mercf', 'psr]yE', 'msucuE', 'qprcu<']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mjlulZ', 'msrcuG', 'mrrc\x1fE', '^sbkuW', 'm`reuE', 'msrccE', 'dsrq{Eb', 'asscuE', 'vdrcuEV', 'merVuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['vsrcbE', 'ms\x1cczE', 'xsr]\x1c?', 'msrc~C', 'qsbeuT', 'msvcmV', 'msrc\x1dA', '~\x1ba\\', 'ms\x1ecuE', 'mtr^uEfpt']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['ksccu@H ', '~pac\x195', 'ms~cuE', 'm\x1frc\x1eI', 'mscc\x1b;', 'b\x1crcu', 'msrV\x18W', 'rsrcun', 'ml`cpH', 'ms\x1ccuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mfr`u', 'msscuE', 'msrfuV', 'twr`', 'msrio7', 'm\x1frcu4', '\\d~c\x18U', 'zs_cuE', 'mwec<', 'msrc{?']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mvrV', 'yarc\x17', 'm\x1cxvlE', 'mar`u@', 'esrZu', 'c\x1dpcuU', 'us{cuX', 'ms_duEC', 'myrcuE', 'ms_c|W']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['ssrcu', 'usecuE', 'mercuE', '[s\x1fcuL', 'cs\x1a`uG', 'm~rluR', 'msyc{E', 'jsrcuA', 'mssckE', 'msr_uAC?']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['qsrhuE', 'hsrcu=', 'mnrckE', 'psr\\uEO', '^sfch7', 'psrm\x17E', 'kgrfuED', 'msrk', 'msr\\iE', 'jsrc~E']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrXuV', 'msrcuE', 'msqcu}', 'msrczE', 'b\x1brYqT', 'usrowE', 'murcxEk', 'mskY\x1fE', '^ss]|', 'os`]x']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['| rmuE', 'm\x1d{VnE', 'ms_ku=', 'vsacu', 'q\x1brcg', 'msrV\x18G', 'mkrcuH', 'msrc\x19E', '\x1fsrWwE1a', 'msrVcE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['~srju', 'ms`cbE', 'msrcu', 'ziwcuE', 'mibcu', 'msjvm9', 'msrouE', 'i\x1frRb', 'msrcuE', 'msycu.']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['farXuE}', 'mjbc~EZ', 'm\x1dosuE', 'm\x19riuE', 'mmrj{9H', 'usricE', 'm` ]u', 'msrs', 'mvecuE', 'csvXuL']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mkrhuE', '}srhuE', '\x1fnr_uE', 'm|rcpE', '\x1fsrcu', 'may`uEv', 'vsrcuD', '{}pclE', 'msrcuF', 'm\x1fycl']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['jcncu6', '{skcoV', '{drouE', 'marcnE', 'm\x1c_juE', 'ysrpuE', 'rsrcuE8', 'msrc', 'm\x1drcuE', '`ste\x1dE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['\x1fsrcf', 'msrcuJ', 'Zs{Uu4>', 'msqcu2', ' src\x1cE', 'm\x1b~SpE#', 'dsqcuE', 'ms}auEBp', 'vsrcu@', '{wrmu|']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['iwbcu@', 'msrcuE_', 'mrrcuE', 'r{rcmE', 'msfcuq6', 'm rcuE', 'ms}b\x19E', 'mqpp\x18E', 'tsrc', 'msr`uE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mcrcuW', 'msrcuE', 'msrcuE', 'msrWgE=M', 'ms\x1dc', 'zsrci', 'mom]u?', 'ms\x1ecuJ', 'msn\\}', ' sr']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['bdpcxG', 'mspuu3Vq', 'msscuI', 'mjocu2K', 'nsrcuE', '}bbcuK', 'msscuE', 'mmrc', 'asris6', 'jernuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrc\x18E', 'bsrcuE', '\x1fsncuE', 'm}rcuE', 'msvou', 'm rcuE', 'phrcz;', 'ycrc Sa', 'msrut=', 'msrc}E']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['}srVuP', 'mc_cug', '`srvuh', 'msrV\x1eE', 'm\x1crk', 'msrcuE', 'ms}c\x19E', 'ms\x1dcuI\\', 'msrcu', 'msbVuH']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['ZsrcuE', 'ms_hu=', 'msrcuB', 'msoiu6e', 'mdrqyI', 'wsr_uXd/', 'msrcuN', 'mvrcu3', 'mbrczE', 'osrcgX\\Z']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrcuE', "qir\\uE-'", '~stlkE', 'msgY\x1eE', '\x1fsrc\x1fE', '\x1fwriu3', 'sspVu', 'isrQuG', 'm~cuo', 'm~rcuJ']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['myocu', 'msmply', 'mkjcuB', 'Zstcu3,', 'm\x1crcuV', 'msrcuE{', 'mqzcoA', 'mg\x1bcuEc', 'msrcuE!', 'Z\x1drcrE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['m~dcuK', 'msrcu3f', 'mlrpuE', 'ms\x1ac\x18Em', 'msnPuO', 'mc~cu', 'ms\x1fcuE', 'mk}suP7', 'ms}cu', 'rsrcu:']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['m}qciE', 'fsrcuE', 'm}ocsE', 'mgpPuE', 'murquN', 't{`cqV', 'mbrRwE', '`sr]bK', 'm\x1crek ', 'isrkuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mqrcfG', 'msr]u', 'p\x1e`csM', 'mz cqE', 'mdrmu!', 'ms_cu', 'msrRuE', '^yrXu', '\\syczE', 'msrc{EUI*']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['ms\x1ech2g', 'msrcuE', 'mrrc}D', '~src\x1aE', 'ts c}Ea', 'fsrcuEo|', 'ds_cmE', 'msocuE', 'ms`au5\\', 'mfr\\uc']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['wnrZuE', 'nsrc\x1c0', 'mhrchE', 'lsriuE', 'msrcuE', 'msrclX', 'mfrcu6', 'msrcuEU', 'mzgSuE', ']d\x1bcxE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mh{hl', 'msrgkE', 'msrcgW', 'msrgu5', 'm\x1f}inJ', 'mmrcuE', '_\x1arcu:', 'msrpuE', 'mwrcuE=', '[frcuZ']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mwfcu', 'm\x1cr[u<', 'ccrZu', 'xqr_u', ']sr^uP', ']srcuH', 'msrmuE', 'msrP{D', '`\x1dac', 'mfxcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['m\x19\x1ecqE', 'mjvcu2', 'm\x19\x1aUuE', 'mhrcuE', '_\x1cacuE', '|vreuP', 'os~cu', 'osrq ', 'mskcu', 'migcuL']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mxrcm', '}shrvE', 'msyZuE', 'y|\x1ecuEl', 'nsscu7', 'crrpqX', 'msrcuK', 'msrPwE', 'lsrTuE', '{\x1ercuB']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msvcuEW', 'm~xcu3', 'msncuE', 'bskiuQ', 'ms\x1br\x1dG', 'msmcuK)?6s', '}}\x1bcuE', ']grch', 'kwhnuE&', 'ms\x1ajqE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['|sbnuE', 'msr', 'ms\x1eeuE', 'msyc{E', 'mz\x1ec', 'msrcu7', 'msrcuEC', 'm\x1frt\x1bE}', 'msrckD}', 'ms|WuE2']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['\\uqcuE', 'msvc|', '[srcux', 'msrcuE', 'mfoimE', 'msrcd@', 'uswpuE', 'c`rpuEo', 'm{rguE K', 'fs`c']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrYuS', 'mskSuE', 'ms|cuK', 'msmauW', 'msr\\u>', 'iprmuC', 'msrguE', 'vsrcuK$', 'ms\x1bhkH', 'xsrcuR']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mq_[uV', 'zsrcu', 'csrcuJ$', 'm\x1cocnE', 'wsgcr', 'm\x1f\x1aclE', '\x1fxwUu2', 'mxvfiE', 'qsrc\x1eE', 'unrcuP']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrcuE', 'm~r_uE', 'm |cuE$P', 'y\x19aY\x1dE', 'msrjuX', 'mlrcuO', 'mc_cu', ' srcuE', 'm\x19ycuN', 'ms}X|Wp']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['m|riyEV', 'mercdE', 'msr)D', 'ssvcrE', 'msrbuO', 'msrcd', 'm\x1drcuE', 'msr]iE', '_s~\\uE', 'mtrc E-I']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['morcuE', 'ms~cuP{', 'msgiu9', 'msrquE', 'mqpcuE9+', ' skW', 'msrvuE', 'msxipA', 'r \x1ecgEU', 'msrc']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrcuE', 'mnrcuE', 'm\x1brccE', 'msrcqX', 'mshiuEVI', 'msrcuE4', 'ws cu', 'm\x1arcgE', 'm\x1c|]uEl', 'm|hchE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mslctU', 'msrXmE"7', 'muwcu', 'msrlu', '^srk\x1fG', 'msrcuX', '{\x1aic\x1cE', 'gsrcqU>', ']\x1drcu', 'zsrc\x1c2']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['zdrcjE', 'gazUu@', 'msrTuCs', 'morc\x1cE', ']`reuE', '{srnu2', 'msrXuL', 'msdcuE', 'mshcuEJ', ' nbc\x1dE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['ps\x1fYc:', 'kqrcjE', 'm`rcu9', 'msrYu>', 'msrc\x1e', 'psrcuN0', 'bsrcu9', 'mzrcuJ', '_swcuE', 'dsySuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mstgu3', 'ysrcu', '|srcuE', 'isqcuP', 'mtrcb_', 'mkrX', 'msicuE', 'mircuE', '|~rcuE', 'mjrcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['xhrcyE', 'msrcmE', '\x1fsru\x1cE', 'csrcu', '~srcu?b~', 'wspSu', '|snk\x17O', 'o}asuA', 'm~rco?', 'msrcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['\\sr[u', 'msriwE', '\x1fsrcu>', 'mlrcuE', 'ms cuN', 'dur]{EU', 'zsrcuT', 'msrYcHh', 'ms|ceE', 'ztycu']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['hsr\\uE', 'tsrcu?', 'jsecuEr', 'mcrcuFN', 'msrcuE', '\x1fsnQoE9', 'qssmf9', 'msr[u', 'msrcuE', 'msrcuT']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['k}ycfE', '~srch8', 'msrUuE', '~}xckE', 'msrbuE', '[prcu', 'omsq\x18', 'msmc~G', 'msrcqEr', 'msrpeE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrcd', 'msrluM', '{src\x1bE', 'mw|XpT', 'msat\x17:', 'ms\x1acw?', 'ms\x1a_uD', 'm~rcuE', 'm\x1brcuxr', 'ms|cyE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrSuQ', 'my~c', ']ssc\x1f?N', 'kdrWu=', 'ml`cuE', 'nsrcudi', 'ms|ZuO', '{s\x1bc', 'msuczE', 'mtccu']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['ks\x1dcu2', 'mtrR', 'msrcuE', 'mbfpn', 'msrcdE', '\x1fs ciD', 'm bc\x17', 'msrczE', 'msrcuE', 'mssnrQ']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msbml?', '\x1fsrcuVa', '}srchE', 'msgc{E', 'mstifE', 'koncuE', '_srRg;w', 'mjgcuE', 'msrju4', 'am\x1dcuE/']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mbrcuE#', 'rs\x1ecu@', 'msrc\x1bG', 'msrcmH', 'm`rvuO', 'meaceS', 'msruuP', 'morcn8', 'mzrc{E', 'msrcuE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mhruuE', 'osf_uE', 'mz~noE', 'mnrm U}', 'mfvcuE', 'mgrcuEM', 'pig`u', '^srsu=', 'msrcuE', 'csr`uE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['m`qcu', 'vsrhuK', ' sccgE', 'vwrSuE', 'rwf`uP', 'msrciEv', 'jsrcuE', 'msrcmE', 'my_cu', 'msrpkO']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrcu', 'msyc\x1fFd', 'm}\x1fvu2', 'msvcu', 'msrc\x1cT', 'msrYuT|', 'msrcxE', 'm\x1cr\\u', 'msrjuE', 'mvhcg']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['bsdcu2', 'w\x1deruE', 'mstUuL', 'msrvu:', 'mtrcuE5', 'msf`hE$', 'ms\x1dcpE', 'msyfuE$M', 'msfcuE3', 'mssciO']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['p\x1arc\x18?', 'msrq{Es', 'lsrT\x1cE', 'msrcz3', 'x\x1frcuE', 'mqrc~E', 'jdy[uE', 'ms\x1ccuE', 'mspWl', 'myuruE']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['mih[uN', 'mprc\x1b<', 'ms|ctE', 'msrZ|E', 'msrcuB', 'ms\x1ccuE', 'msrc\x1aFc', '^dbcuE', 'msrcv', 'm`rcu']
+msrcuE was the highest scoring string, with a 0.75% similarity to the goal string marcus
+['msrcu8z', 'ms\x1fo\x1f\\', 'v\x1crcuKJ', 'marcuE', 'isrnuIX', ' s_cu', 'murcuE', 'm\x1brbuE', '|s\x1c^u', 'msrcu']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mgrcuE', 'hOocvE', 'maocuE', 'marPuQ', 'xal\\vE', 'mbrcsE', 'ma_fuE', 'mavcq', 'ma|_\x1cBT', 'marcu_']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['m^rdu8', 'mr\x1dk\x17', 'maacuH', ' ax', 'ma~cu', 'kbrcu', 'mYycu', 'mgeclE', '\x1f_rcu', 'marVu']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mrrcuO', 'mbrcuO', 'cS~cuE', 'jprcoE', '|aacu:', 'mancuAv', 'mawcsE', 'mbrtlE', 'marhuEF', 'xSrcuU?']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marcuA', 'ma_RhE', 'mhreoM', 'berclE', 'marcu', 'mmrcuED', 'sSrcuC', '`XrcuE', 'mqdcuE', 'zrrcuEs']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['gahc\x1fE', '~amc', ']arcg,', 'zarcuN', 'mZpP\x1f-', 'mq\x1fcuE', 'mac]u@', 'fauYuE', 'markuE', 'qarc\x1e:']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['|armuE', 'fjrcu', 'marcuE', 'mcxhuE', 'xhjtu8', 'varRu', 'majck', 'mg\x1eckE', 'oarpu5', 'mamRoEx$/']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mapcu', ']]rcuE', 'mqrcu', 'kanruE', 'mQrc', 'yhrchI', 'mWacu2', 'marcuE', 'mar_\x18PJ', 'sTrcl2A0']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mZ\x1acu', 'tcrc', 'ma`puU', 'gafuu?Y', 'marRjEL', 'mZocu:', 'ma\x1dcuEd', 'marcuE', 'maqcu7', 'marm\x1fECe']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['m^dc\x18I', 'ejrbeE', 'zarYu', '[amc~E', 'ml\x1dcu=', 'qagcuE', 'marcuE', 'yVrUuE', 'marnqE', 'maoduE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marpua2', 'marb\x1aE', 'maocfEu', 'mar[\x1bE', 'bcrcuA', 'ma\x1acuE@', 'marSu', '~tscuW', 'marcuE', 'marouB']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marcuE', 'mnrh\x1bE', 'daucu', 'ua\x1cj\x1cE5', 'marcuH', 'ma\x1dauE', 'marruR', '}arcw>E', '\\`ncuEJ', 'm\\fcuV']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marcuE', '~arcu', 'me\x1cc|X', 'marcuE', 'mart\x1a@K', 'marTxG', 'eqyclE', 'xa}WuE', 'maacuN', 'marctE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['lrrSuA', 'noi[uE', 'maxco=', 'lRrcuE', 'maru\x1d', '{c_kuK', 'manql', 'ma\x1ccuE,', 'mgrcjE', 'mar]uE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['m`reuL', 'ma\x1ecuR', '`src\x1bB', 'bavc\x1f', 'pa\x1ccuE', 'm[rciEx', 'm[~o', 'mahcuE1', 'mprcuEr', 'marcrE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marcjE~', 'marpu@', 'mardu<', ' brcuE', 'm^rSyS', '|XhcuB', 'maccdE', 'mkpcu8', 'marc}E', 'mNb[uE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['narclE', 'ma\x1ccuH', 'm[\x1amr', 'marcf6', 'mikcu', 'marceE', 'mas`', 'ma\x1cciE', 'hW_tuE', 'mh\x1bcusm']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marluE', 'ma{tu', '\x1f`rcu?', 'madcpE', 'sYrcuE', 'smrcuE', 'mafcuE', 'elr', 'mabcu>', '[afcuL']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['\\TrcuE', '\x1fatcp', 'garQu7', 'marjuE', 'mUfX L', 'masceE', 'm[rguE', 'maoklC', 'mercuE', 'rabZuEg']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marcu', 'ma}t', 'mtncu9AI', 'marcvE', '_azguEE', 'imccuEs', 'mSrvuE', 'patcuE/', 'wa\x1ecnE', "mar]'"]
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mWrc\x17Q', 'marcuE/', 'jercuEd', 'mavctG', 'ma\x1eju5', 'markuE', 'marauD', 'ma{cfJ', 'ZarpfE', 'hargtE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['gQrcm', 'm]rju;\\{_', 'mQrcnB?', 'earduE', 'mar', 'jsrruE', 'marcr', 'mj\x1dcu2w', 'martw', 'parc\x1a[']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['ia\x1aXu', 'eab_\x1bK?', 'fatcu', 'larQuE', 'rdrcjE', 'horcuE', 'maycuE', 'maycf?', "marcu'!", 'ma~cu6:']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['ma{cu:', '`arcuE', 'mYqQuE', 'ua_cuC', ']a uu@', 'marcdEb', 'marluI', 'm\\rkuE', 'marcu', 'mmig\x1cU']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['ma}cuE', 'wfxuuW', 'marcu;)', 'mlrcuEu', 'malcuE', 'paycvEI}', '\x1fa|cuQ', 'maacuE', ' _\x1fcuE', 'Zirnu']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['eaqcuE', 'ma i\x17E', 'varcuEd', '\x1ftrcuN', 'marcu', 'mQdciLw', 'ma|^uG', '[apccE', 'mN|abE', 'malgu8']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['ma{]u?', 'mhx_', 'yadcrE', 'mgrcuH', 'marcuT', 'harc\x17@c', '{arcuE', 'ma_cf', 'aarcqE', 'nardiE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marhu<p', 'tefcuE', '^arZmEc', 'marcyE', 'borcuE\\', 'm\\rcuE', 'mabcdE', 'marTw;', 'mercmE', 'man[']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['`arvuWT', '{abncE', 'lnucuE', 'majcy', 'mazc}E', 'marcuE', 'marc\x1bE', 'marWoK3cv', '{agc<', 'm`\x1bn']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marcuE', 'marcu', 'maucu', 'marXuE', 'marcrE', 'walcu@', '|arlu)', 'mseS', 'marcdE', 'maruu']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+[' `_cuE', 'mlzRuEn', 'marRu', 'marnuE', 'marir', 'e]|ccKw', 'aaacu>', '[q\x1celKf', 'marcuE', 'mpecuX']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['}orQ\x18Ew=', 'mS|c', 'maocwE', 'm_rUuO', 'mZpcu', 'malcuE', 'mZrQl', 'carc[', 'marUuE', 'mfecuE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['yadc\x1bD', 'msrcu9', 'marcuE', 'maflfQm', 'm^kcu', 'mapcuE1', 'mahcuC', 'mabc~7', 'mXrcuE', 'md{cp']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['ma_cuEu@', 'mavmcU', 'ZarcuEM', 'ma\x1acuE', 'mghcuE', 'vaqc~AK3O', 'maacuB', 'aa`cuE', 'mPrcuE', '|aocuE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mlrcuE', 'uarcuQ', 'mawcu', 'marcuT', 'mqrZ', 'karc', 'maicu', 'tarauE', '\\aa`uD2', 'marbuU']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['^a\x1d_uE', 'marfuE', '~arcu;', 'mar', 'mar^uE', 'mafcu', '^arcnE', 'ma{ciE', 'marTeE', 'mVscuE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mtrWuP', 'bhhVyENQ', 'mYrcuE', 'marcu.', 'm`rcoE', 'mavcu', 'marc E', 'm\\rcuE', 'marcmg', 'marcuE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marYu', 'marfu:', 'm^pqc=', 'marcuA2al', 'mabcuE', 'varcgE', '`arcq', 'mer[\x1b', 'ma\x1ff\x1bQ', 'mer_ue']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+["mPpcc'", 'h]rcu', 'marc\x1d@', 'cmrcu', '~hlcuE', 'ma [uV&', 'dszmuE', 'harcuE', 'marcuKR', ']a cuE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['kaqcu', 'mVrcuE', 'mTrcuE', 'eOrcuE', 'mV`a E', 'm`nduE', 'marcu7', 'mQucuE', 'mf\x1aQqI', 'mQo`uEO']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mfrcmuE', 'barcu', 'mmscnE', 'marcuEa', 'iTrc\x1fE', 'ma\x1ecu', 'garczE', 'm]oduU', 'bh muS', 'mggcuv']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['yar^uE5', '_Qruu5', 'mjucu;', '`arcu', '\x1firjuR', 'marc\x1bE', 'mrrcuE_i', 'mQrZxEk', 'mayVf', 'marcuV']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['ma|cuH', '|awcu87', 'maxcu', 'kOrcuE', 'marUZ', 'mavc}E', '}krcuE', '[agcuE', 'xarc~', 'carjuE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mTrcu', 'iawmuM', 'mancu2i', 'mircfE', 'msbch9', 'magcuE', 'garcu=', 'marcu', '^arc|E', 'marmu6']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marcu', 'marcuE', 'ma}cpE', 'marYqM', 'jnxi\x17<', '\x1fat', 'tOrsuE"', 'barcdE', 'marcuE>', 'korccE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['Zar[uE', 'maecuE', 'marc>', 'mf{ciEKyT<', 'mdrUuE', 'mahv{E', 'ma\x1acu~', 'mZrco', 'snucuE', 'm[bvu2']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['ma\x1cccE', 'barduE~', 'har^u@F', 'ma`cu', 'mOtq', 'majRu', 'mqr\\u', 'marc~6\\', 'mrecuE', 'mF']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['m[rcuE', 'mRrXuE', 'uarYtR', 'lan]u', 'marcuG', 'ma\x1cmuEj^', 'mT|cu4', 'karUuO%', 'mPyboOYb', 'mPrcuE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['varceCr', 'mar^uE', 'mo~buE', 'mdrc\x1b', 'zarZdD', 'ma\x1d[uH', 'ma|kkE', '|arcuT', 'wZ\x1acu', 'mRr\\\x19EE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marjh6', '\\frmuE', 'dOrfuE', 'maxtu', '}aacuE', 'maroi', 'lU\x1ccuE', ' \\fc~J', 'p\\fct4', 'marcuE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['farcqW', 'marcuE', 'pgrcu@4', 'mYrcfE', 'sanUuE', 'marcuE', 'ma\x1fcuL', 'm]rXtL', 'mascu=', 'oarcu']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mUrcuE', 'maeo\x1aE', 'marcuE', 'marcuE', 'marYm', 'maxgC', 'marcu', 'yarchV', '\\axcuE', 'mircuE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mmrfvEV', 'mfmPuN', 'mbrcuPd', 'marcu', 'carcu', 'marc', 'mk c}', 'mPmcoE^', 'ma_cuE', 'mmrc']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['uafcuE', 'marcoE', '_rrcuJ', 'mQ\x1equB', 'mYrQ\x1a=(', '`au]uE', 'caucuE', 'karcf>', 'mQtc\x1aM', '_X\x1ccuQ']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mQrSu', 'hareu5', 'mUr', '~[rcuE', 'mavcyE', 'marou6', 'marcyE', 'mRfYuE', 'mjrcuE', 'hf\x1bcuS']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['aVrcuEEO', 'zalcuB', 'm\\rVyT', 'marXuE', 'mbrvtEv', 'masgj@', 'macc8', 'mnrcnE', 'qt\x1fj\x1dE', '`arc']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['sarue6', 'tarcuE', ' arcu', 'ba\x1elz5', 'm^ cu', 'yar\\uE', 'var_uE', 'xNfcu ', 'aamku', 'm`rcuE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['may]uS', 'eUrcuE', 'maacuR', 'meuZr', 'ma`cuE', 'warcuZ', 'mPrcvA', 'marcu>', 'unrTbE', 'naoc{:']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mabcu;', 'iWrcu;', 'garc ', 'darruE', 'maregE', '\x1farhuW', 'mancu=', 'varnuK', 'ma_Ru8', 'fmlRhE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['ma\x1dcbR', 'sQrmrA/', 'mgrcuQ', 'mSse\x1f', 'varczE', 'zarcuEA', 'mXkksE', 'marcxE', 'marcu', 'xarcu']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['[arguE', 'ma\x1fciE', 'oarcuE', 'xmrYqE', 'm^rcu8', 'marcl9', '}a\x1bcuE', 'uarcuE', 'gar]~C', 'mfrvuMf']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['w[rcuE', 'marc\x1fE', 'mrrcuE', 'ia\x1ecuE', 'ma\x1a\\u=', 'ma c E', 'mawi\x1dJ', 'mcrbyE', 'mjrcuU', 'm]djuE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marcu', 'marQgI', 'marc}E', '|irouE', 'marfuE', 'm[rcuE`', 'marc\x1fCT', '\x1far^uUk', 'cadouE', 'sayc\x1fE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['eartcE', 'uN~cuEm', 'marcu', 'ma}czE', 'mQrcu', 'mar[\x1d5', 'mo|]iE', '^N\x1bcuE', 'xnrcuE', 'marc|6Y']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['[a ouIu', 'mYrcmQ', 'mt{cu7', 'mUrc', 'marduE\\', 'kagV\x1ej', 'marR\x1aEe', 'harcu:', 'mqvfuE', 'earecE(']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['ma_XuG', 'm]rcuE', 'mark\x1eEw', 'aa\x1acu', 'masQuE', 'malh{E', '`arcgE', 'marcu<', 'mZrcb7}', 'mPrcu']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marcuE', 'mSr\\uC', '}ardlE', 'mcrcuE', 'marcuG', 'mar[rSpk2', 'mkrcuE', 'mnccu', 'tarcu4', 'marcyE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mgrq|y', 'marqr', 'marWnE', 'mp\x1cuuC', 'vart\x1c', '|YrZuA?', 'Zarcu', 'marZuE', '|ar', 'marPfE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mNsQu8', '\\Rxcu=', 'mTrTmE', 'mckcuE', 'ma\x1dcbTf', 'Za`mu8', 'marc\x1aE', ']az_w', 'marYuEm', 'narXuE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['makcj', 'mUrchG', 'aj\x1ecuE', 'ma}cuJ', 'mahcuE', 'mXrhuL', 'marnuE', 'darjuE', '`arcuD', 'tPhSuCf']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['[areu:q', 'marcuE', 'mR}cu', 'mk [', 'mWrcuE', 'masc~E', 'mVrQuV', '~aecuE', 'mQrcyEn', 'mar\\\x17Ea1']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mar^u', 'mUec\x1fEd', 'mapcu', 'k`rcu', 'ma\x1bcuE', 'mircyT', '\\OrcsE', 'marcuL', 'mSrcuN', 'fbrcdD']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['maaijE', 'mNrcu', 'mS\x1ecu:', 'mbrcu@', 'mdrc', 'ma\x1dcu2', 'marXul', '\\ar_uE', 'marcvE', 'marcyE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marc{E', 'pakcuEA', 'xakiq5', 'marcu', 'marcuF', 'mavc\x1fE', 'maruf]', 'gaaQuE', 'm^_cuE,', 'marc|E']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mnrcuE', 'ma`cj', 'uarcuP', 'marcuE`', 'ma_pd5', 'barc\x1eA', 'ea\x1acuE', 'me\x1fTuE', 'majcrE', 'marcu?']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['sarc ?', 'mahcuE', 'marcn', 'mQk] R', '\\qrcuB', 'm^rcyE', 'ma{luu5<', 'mQreus', 'iarRu4', 'ka']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['karcu', 'maocg', 'marcuE', 'tarcqE', 'mdrc\x1b', 'carnuE', 'marccS', 'marR\x17E"', 'mriVuF', 'mQ}ctE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mardfE', 'ma|t', 'mdpWrE&', ' trcuF', 'marcu', 'uOcXuAan', 'marctE', 'ma_cuC', 'marc}E', 'mayouE<`']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mrrcdO', 'ma\x1bcuE', 'mVrcuEU', 'mSrd}O', 'makhbE', 'mUgc\x17E', 'mO}Wu', 'mh\x1fcuE', 'sarcp=8', '|iqa\x1e']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['saost@', 'dO\x1fcuEs', 'ma\x1fnuE', ']arcuE', 'aar^uE', 'ma}muE', 'mRru}X', 'marcu', 'marj~EE', 'zjrc']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marcu4', 'm[rcnD', 'jarauEr', 'uaicu3', 'ma\x1fW\x18E', 'mpxcuT', '|]rbi', 'qahcuE', 'ma~cuE', 'marcuE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['m_rcxP', 'qhrcuGo', 'barclE', 'mgrcyE', 'marckE', 'maetuN', 'varcz', 'kars', 'marcrE', 'ma\x1dcuEx']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mRrpuE', 'marcuE', 'mUri~6', 'oargu', 'mirkuE', 'marcuE', 'mara\x1eV', 'zartuS', 'marcuR', 'Zar']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mrrc 6', 'mhnUuE', 'm`rcuE', 'mcrcu', 'das]uE?', 'ma|cjE', 'earleEh\\', 'maxcuE', ']lrm\x1fE', 'mtrcu7']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['maw', 'marcu', 'marruE', 'wSrT|U~', 'dV|Sf', 'marZuL', 'mlrc\x1bE', 'marcuE', 'm]rc\x1fE', 'mar\\yE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['m\\rau5.', ']f\x1ec', 'ma\x1acm', 'pakcu=', 'marcu7', 'harcu', 'm[rV\x1dE', 'm^rcuE', 'kerVuE', 'mVr_uE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['[oxcu', 'maw\\t8D', ']orczE', 'mdri\x1aA', 'mb\x1fcuQ', 'maru\x1f', 'marpnW', 'mQratEu', '`aeci', 'mRwruEyLv{']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['ma\x1bpu', 'ma\x1ccuE', 'manWuU|', 'tgrXkE', 'm`gcu6', 'mp ctE', 'marmdEZ-', 'merouET', 'mssc\x1dE', 'vWb\\uE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['barc', 'marcuU', 'mXrhu@', 'mtrdoE', 'marcu(', 'm\\zaxA', 'mavcuE', 'merWu7', '[arZuE', 'majcuE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mavc|E', 'mbrvhE', 'oaoce', 'mOreuE', 'madc\x1cFu}0+', ' allu', 'mVkcq', 'mnrXpE', '^arguE', 'marcuE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['motceEGO', 'ma\x1acwE', 'm^gduFfU', 'mSr_', 'xdfcuE', 'xarcuE', 'tOecuE', 'pTrnu;', 'iaeTwk', 'marp']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marcuE', 'e_rRgI9', 'mazcmE', 'ma Wk', 'mmg', 'mZkcmR', 'ma u\x1fC,', 'mgriuV', 'marbhL', 'marcuE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['m\\rcwE', 'm[rV\x1fE', 'ma\x1cVuSZ', 'marcu', 'ma luE', 'ma~ccE', 'oaic\x1aE=', 'mj`dxEo', 'ZabcuLY', 'marWe']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mUycnE', ']arcu', '{auckE', 'maec|E"w', 'mWrcfOz', 'mpjcuM', 'maypuG', ']arcu', 'mfrc >', 'marcdE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marcu5$M', 'mkrcr8', 'ma\x1ec', 'mSrp', 'mareuE', 'nX\x1dcuE', 'rarcuP4', 'marcuE', ']arW\x19@', 'xa`cu']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['mard\x17J', 'uOrTuHI', 'marc\x1bE', 'qa\x1fc', 'mascmE', 'marcuE', 'hsrcu;r', 'farcu5', 'mOrkuE3', 'malcu@']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['uYrc{E', 'a]|cuEGj', 'm_`cuE', 'oolq\x1fE', 'marcu3', 'mascuW', 'kdhcuE', 'marc{T', 'yp~XuE', 'mirPuE8']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['xtrczE+', 'mOrcuE', 'mUrcuBO', 'li\x1em{<6', '{mshuE', 'earcu', 'rarctE', 'aavc\x17E', 'ua``\x1b', '{arjuE(']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['oarcu', '\\SrcuE', 'oarc\x19E', 'maranU', 's[rcu', 'uarcuE', 'mercuE', 'ma{pu', 'mm~cu', 'mtrYuE']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marcuF', '[arcu', 'marc\x1fE', 'marc|E', 'marXuU', 'marh\x17L', 'marPuE', 'mir[uE', 'marcuE', 'mVlco']
+marcuE was the highest scoring string, with a 0.8333333333333334% similarity to the goal string marcus
+['marcuT', 'me|ouE{mT', 'marcus', 'marcuE', '{arcuEO', 'mnrcuE', 'maocuE', 'm\\vp\x1aRK', 'yPtZ', 'marruE']
+marcus was the highest scoring string, with a 1.0% similarity to the goal string marcus
