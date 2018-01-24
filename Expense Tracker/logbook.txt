@@ -1,0 +1,30 @@
+2018-01-06	$11.75	FOOD	HKBistro	lunch special
+2018-01-06	$10.00	HEALTH	GraceHaircut	
+2018-01-06	$11.02	FOOD	Sobeys	milk and oatmeal
+2018-01-08	$11.04	FOOD	TimHortons	2 breakfast wraps + bottled water
+2018-01-08	$9.02	FOOD	Bahen	2 veggie empanadas
+2018-01-08	$8.25	ENT	RiddleRoom	cookies and creme milkshake + jap popcorn
+2018-01-09	$9.02	FOOD	Bahen	2 veggie empanadas
+2018-01-09	$13.80	FOOD	St.Louis	10 pounds + drink 50% off
+2018-01-10	$3.99	FOOD	Sobeys	bagels
+2018-01-11	$6.77	SCHOOL	UofTBookstore	two 0.7mm lead pencils
+2018-01-11	$1.41	HEALTH	Sobeys	Halls honeylemon
+2018-01-11	$11.68	FOOD	MagicNoodle	Beijing Bang black bean
+2018-01-11	$22.61	FOOD	Sobeys	baguette, sweet chili sauce, veggies, mayo, ham
+2018-01-12	$21.42	FOOD	Ehwa	Spicy Cheese BBQ chicken
+2018-01-13	$19.44	FOOD	KOSrestaurant	chicken souvlaki
+2018-01-13	$9.98	FOOD	Sobeys	2 hams on sale
+2018-01-14	$3.29	FOOD	Sobeys	mini panini buns 6-pack
+2018-01-15	$11.68	FOOD	MagicNoodle	Beijing bang black bean
+2018-01-16	$3.45	FOOD	MedicalScienceBuilding	Pure Leaf green tea
+2018-01-17	$9.91	FOOD	Sobeys	milk and two 3-pack baguettes
+2018-01-18	$1.25	FOOD	SanfordFleming	Cheetos jalapeno
+2018-01-19	$1.50	SCHOOL	Gerstein	printing 10 pages of resume
+2018-01-19	$10.72	FOOD	FatBastards	Big bean and cheese burrito
+2018-01-20	$7.79	TRANS	Bahen	Uber home
+2018-01-22	$9.59	FOOD	TeaShop168	beef brisket on rice
+2018-01-22	$17.53	FOOD	MagicNoodle	Triple B plus half of beijing bang
+2018-01-23	$11.75	FOOD	HKBistro	lunch special + milk tea
+2018-01-23	$18.85	FOOD	MrTonkatsu	pork loin with cheese
+2018-01-23	$5.55	TRANS	Uber	home
+2018-01-24	$7.23	FOOD	Sobeys	milk and bananas

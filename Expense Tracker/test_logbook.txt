@@ -1,0 +1,6 @@
+2017-01-03	$11.75	FOOD	HK Bistro	lunch special
+2017-04-04	$10.00	HEALTH	Haircut	Grace
+2017-04-04	$11.02	FOOD	Groceries	Sobeys milk and oatmeal
+2017-05-05	$12.00	FOOD	test	d
+2017-08-06	$11.50	HEALTH	cheese	lol
+2017-08-06	$2.00	ENT	asdf	sf
